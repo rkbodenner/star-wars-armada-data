@@ -1,9 +1,10 @@
 [
    {
       "name": "Nebulon-B Escort Frigate",
+      "ship": "Nebulon-B Frigate",
       "faction": "Rebel Alliance",
       "hull": 5,
-      "__comment": "dice array is red blue black",
+      "__comment": "dice array is [red, blue, black] counts",
       "squadron-attack": [0, 2, 0],
       "command": 2,
       "squadron": 2,
@@ -35,9 +36,10 @@
    },
    {
       "name": "Nebulon-B Support Refit",
+      "ship": "Nebulon-B Frigate",
       "faction": "Rebel Alliance",
       "hull": 5,
-      "__comment": "dice array is red blue black",
+      "__comment": "dice array is [red, blue, black] counts",
       "squadron-attack": [0, 1, 0],
       "command": 2,
       "squadron": 1,

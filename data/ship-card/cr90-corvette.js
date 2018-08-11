@@ -1,9 +1,10 @@
 [
    {
       "name": "CR90 Corvette A",
+      "ship": "CR90 Corvette",
       "faction": "Rebel Alliance",
       "hull": 4,
-      "__comment": "dice array is red blue black",
+      "__comment": "dice array is [red, blue, black] counts",
       "squadron-attack": [0, 1, 0],
       "command": 1,
       "squadron": 1,
@@ -36,9 +37,10 @@
    },
    {
       "name": "CR90 Corvette B",
+      "ship": "CR90 Corvette",
       "faction": "Rebel Alliance",
       "hull": 4,
-      "__comment": "dice array is red blue black",
+      "__comment": "dice array is [red, blue, black] counts",
       "squadron-attack": [0, 1, 0],
       "command": 1,
       "squadron": 1,

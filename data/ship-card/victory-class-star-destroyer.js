@@ -1,9 +1,10 @@
 [
    {
       "name": "Victory I-class Star Destroyer",
+      "ship": "Victory-class Star Destroyer",
       "faction": "Galactic Empire",
       "hull": 8,
-      "__comment": "dice array is red blue black",
+      "__comment": "dice array is [red, blue, black] counts",
       "squadron-attack": [0, 1, 0],
       "command": 3,
       "squadron": 3,
@@ -34,9 +35,10 @@
    },
    {
       "name": "Victory II-class Star Destroyer",
+      "ship": "Victory-class Star Destroyer",
       "faction": "Galactic Empire",
       "hull": 8,
-      "__comment": "dice array is red blue black",
+      "__comment": "dice array is [red, blue, black] counts",
       "squadron-attack": [0, 1, 0],
       "command": 3,
       "squadron": 3,
