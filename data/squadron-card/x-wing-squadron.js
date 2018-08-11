@@ -6,8 +6,9 @@
       "faction": "Rebel Alliance",
       "speed": 3,
       "hull": 5,
-      "squadron-attack": [0, 4, 0], // red blue black
-      "attack": [0, 0, 1], // red blue black
+      "__comment": "dice array is red blue black",
+      "squadron-attack": [0, 4, 0],
+      "attack": [0, 0, 1],
       "text": "While attacking a ship, treat the defender as having no shields.",
       "keywords": ["Bomber", "Escort"],
       "defense-tokens": ["Brace", "Brace"],
@@ -19,8 +20,9 @@
       "faction": "Rebel Alliance",
       "speed": 3,
       "hull": 5,
-      "squadron-attack": [0, 4, 0], // red blue black
-      "attack": [1, 0, 0], // red blue black
+      "__comment": "dice array is red blue black",
+      "squadron-attack": [0, 4, 0],
+      "attack": [1, 0, 0],
       "keywords": ["Bomber", "Escort"],
       "points": 13,
       "image": "squadron-card/x-wing-squadron.png"

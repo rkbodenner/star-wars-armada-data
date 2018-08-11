@@ -3,11 +3,12 @@
       "title": "Victory I-class Star Destroyer",
       "faction": "Galactic Empire",
       "hull": 8,
-      "squadron-attack": [0, 1, 0], // red blue black
+      "__comment": "dice array is red blue black",
+      "squadron-attack": [0, 1, 0],
       "command": 3,
       "squadron": 3,
       "engineering": 4,
-      "attack": // red blue black
+      "attack":
       {
          "front": [3, 0, 3],
          "right": [2, 0, 1],
@@ -35,11 +36,12 @@
       "title": "Victory II-class Star Destroyer",
       "faction": "Galactic Empire",
       "hull": 8,
-      "squadron-attack": [0, 1, 0], // red blue black
+      "__comment": "dice array is red blue black",
+      "squadron-attack": [0, 1, 0],
       "command": 3,
       "squadron": 3,
       "engineering": 4,
-      "attack": // red blue black
+      "attack":
       {
          "front": [3, 3, 0],
          "right": [2, 1, 0],

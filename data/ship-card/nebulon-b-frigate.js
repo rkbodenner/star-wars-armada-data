@@ -3,11 +3,12 @@
       "title": "Nebulon-B Escort Frigate",
       "faction": "Rebel Alliance",
       "hull": 5,
-      "squadron-attack": [0, 2, 0], // red blue black
+      "__comment": "dice array is red blue black",
+      "squadron-attack": [0, 2, 0],
       "command": 2,
       "squadron": 2,
       "engineering": 3,
-      "attack": // red blue black
+      "attack":
       {
          "front": [3, 0, 0],
          "right": [1, 1, 0],
@@ -36,11 +37,12 @@
       "title": "Nebulon-B Support Refit",
       "faction": "Rebel Alliance",
       "hull": 5,
-      "squadron-attack": [0, 1, 0], // red blue black
+      "__comment": "dice array is red blue black",
+      "squadron-attack": [0, 1, 0],
       "command": 2,
       "squadron": 1,
       "engineering": 3,
-      "attack": // red blue black
+      "attack":
       {
          "front": [3, 0, 0],
          "right": [1, 1, 0],

@@ -3,11 +3,12 @@
       "title": "CR90 Corvette A",
       "faction": "Rebel Alliance",
       "hull": 4,
-      "squadron-attack": [0, 1, 0], // red blue black
+      "__comment": "dice array is red blue black",
+      "squadron-attack": [0, 1, 0],
       "command": 1,
       "squadron": 1,
       "engineering": 2,
-      "attack": // red blue black
+      "attack":
       {
          "front": [2, 1, 0],
          "right": [1, 1, 0],
@@ -37,11 +38,12 @@
       "title": "CR90 Corvette B",
       "faction": "Rebel Alliance",
       "hull": 4,
-      "squadron-attack": [0, 1, 0], // red blue black
+      "__comment": "dice array is red blue black",
+      "squadron-attack": [0, 1, 0],
       "command": 1,
       "squadron": 1,
       "engineering": 2,
-      "attack": // red blue black
+      "attack":
       {
          "front": [0, 3, 0],
          "right": [0, 2, 0],
