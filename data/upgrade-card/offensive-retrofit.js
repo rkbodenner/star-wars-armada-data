@@ -1,6 +1,6 @@
 [
    {
-      "title": "Expanded Hangar Bay",
+      "name": "Expanded Hangar Bay",
       "text": "Your squadron value is increased by 1.",
       "slot": "Offensive Retrofit",
       "points": 5,

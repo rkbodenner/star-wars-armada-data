@@ -1,6 +1,6 @@
 [
    {
-      "title": "Overload Pulse",
+      "name": "Overload Pulse",
       "text": "Blue [Critical Hit]: Exhaust all of the defender's defense tokens.",
       "slot": "Ion Cannons",
       "points": 8,

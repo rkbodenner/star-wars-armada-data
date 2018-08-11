@@ -1,7 +1,7 @@
 [
    {
-      "title": "\"Howlrunner\"",
-      "subtitle": "TIE Fighter Squadron",
+      "name": "\"Howlrunner\"",
+      "subname": "TIE Fighter Squadron",
       "unique": true,
       "faction": "Galactic Empire",
       "speed": 4,
@@ -16,7 +16,7 @@
       "image": "squadron-card/howlrunner.png"
    },
    {
-      "title": "TIE Fighter Squadron",
+      "name": "TIE Fighter Squadron",
       "faction": "Galactic Empire",
       "speed": 4,
       "hull": 3,

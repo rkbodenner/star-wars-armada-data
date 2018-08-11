@@ -1,6 +1,6 @@
 [
    {
-      "title": "CR90 Corvette A",
+      "name": "CR90 Corvette A",
       "faction": "Rebel Alliance",
       "hull": 4,
       "__comment": "dice array is red blue black",
@@ -35,7 +35,7 @@
       "image": "ship-card/cr90-corvette-a.png"
    },
    {
-      "title": "CR90 Corvette B",
+      "name": "CR90 Corvette B",
       "faction": "Rebel Alliance",
       "hull": 4,
       "__comment": "dice array is red blue black",

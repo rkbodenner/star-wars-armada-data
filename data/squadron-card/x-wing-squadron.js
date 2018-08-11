@@ -1,7 +1,7 @@
 [
    {
-      "title": "Luke Skywalker",
-      "subtitle": "X-wing Squadron",
+      "name": "Luke Skywalker",
+      "subname": "X-wing Squadron",
       "unique": true,
       "faction": "Rebel Alliance",
       "speed": 3,
@@ -16,7 +16,7 @@
       "image": "squadron-card/luke-skywalker.png"
    },
    {
-      "title": "X-wing Squadron",
+      "name": "X-wing Squadron",
       "faction": "Rebel Alliance",
       "speed": 3,
       "hull": 5,

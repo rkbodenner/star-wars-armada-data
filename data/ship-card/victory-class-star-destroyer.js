@@ -1,6 +1,6 @@
 [
    {
-      "title": "Victory I-class Star Destroyer",
+      "name": "Victory I-class Star Destroyer",
       "faction": "Galactic Empire",
       "hull": 8,
       "__comment": "dice array is red blue black",
@@ -33,7 +33,7 @@
       "image": "ship-card/victory-i-class-star-destroyer.png"
    },
    {
-      "title": "Victory II-class Star Destroyer",
+      "name": "Victory II-class Star Destroyer",
       "faction": "Galactic Empire",
       "hull": 8,
       "__comment": "dice array is red blue black",

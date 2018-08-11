@@ -1,6 +1,6 @@
 [
    {
-      "title": "Nebulon-B Escort Frigate",
+      "name": "Nebulon-B Escort Frigate",
       "faction": "Rebel Alliance",
       "hull": 5,
       "__comment": "dice array is red blue black",
@@ -34,7 +34,7 @@
       "image": "ship-card/nebulon-b-escort-frigate.png"
    },
    {
-      "title": "Nebulon-B Support Refit",
+      "name": "Nebulon-B Support Refit",
       "faction": "Rebel Alliance",
       "hull": 5,
       "__comment": "dice array is red blue black",
