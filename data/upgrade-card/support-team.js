@@ -1,5 +1,12 @@
 [
    {
+      "name": "Engine Techs",
+      "text": "[Navigate]: After you execute a maneuver, you may exhaust this card to execute a speed-1 maneuver.",
+      "slot": "Support Team",
+      "points": 8,
+      "image": "upgrade-card/support-team/engine-techs.png"
+   },
+   {
       "name": "Engineering Team",
       "text": "[Repair]: Gain 1 additional engineering point.",
       "slot": "Support Team",

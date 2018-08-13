@@ -13,5 +13,19 @@
       "slot": "Turbolasers",
       "points": 8,
       "image": "upgrade-card/turbolasers/h9-turbolasers.png"
+   },
+   {
+      "name": "XI7 Turbolasers",
+      "text": "While attacking, if the defender spends a [Redirect] token, it cannot suffer more than 1 damage on hull zones other than the defending hull zone.",
+      "slot": "Turbolasers",
+      "points": 6,
+      "image": "upgrade-card/turbolasers/xi7-turbolasers.png"
+   },
+   {
+      "name": "XX-9 Turbolasers",
+      "text": "[Critical Hit]: The first 2 damage cards dealt to the defender by this attack are dealt faceup.",
+      "slot": "Turbolasers",
+      "points": 5,
+      "image": "upgrade-card/turbolasers/xx-9-turbolasers.png"
    }
 ]
