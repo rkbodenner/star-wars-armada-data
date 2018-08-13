@@ -15,6 +15,21 @@
       "image": "upgrade-card/turbolasers/h9-turbolasers.png"
    },
    {
+      "name": "Heavy Turbolaser Turrets",
+      "text": "While attacking, the [Brace] defense effect cannot reduce the damage total by more than 1 unless it is the only defense token spent by the defender during the attack.",
+      "slot": "Turbolasers",
+      "points": 6,
+      "image": "upgrade-card/turbolasers/heavy-turbolaser-turrets.png"
+   },
+   {
+      "name": "Slaved Turrets",
+      "trait": "Modification",
+      "text": "You cannot attack more than once per round.\nWhile attacking a ship, add 1 red die to your attack pool.",
+      "slot": "Turbolasers",
+      "points": 6,
+      "image": "upgrade-card/turbolasers/slaved-turrets.png"
+   },
+   {
       "name": "XI7 Turbolasers",
       "text": "While attacking, if the defender spends a [Redirect] token, it cannot suffer more than 1 damage on hull zones other than the defending hull zone.",
       "slot": "Turbolasers",
