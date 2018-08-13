@@ -22,12 +22,27 @@
       "image": "upgrade-card/turbolasers/heavy-turbolaser-turrets.png"
    },
    {
+      "name": "Quad Turbolaser Cannons",
+      "text": "While attacking, if at least 1 red die face has an [Accuracy] icon, add 1 red die set to the [Accuracy] icon to your attack pool.",
+      "slots": ["Turbolasers"],
+      "points": 10,
+      "image": "upgrade-card/turbolasers/quad-turbolaser-cannons.png"
+   },
+   {
       "name": "Slaved Turrets",
       "trait": "Modification",
       "text": "You cannot attack more than once per round.\nWhile attacking a ship, add 1 red die to your attack pool.",
       "slots": ["Turbolasers"],
       "points": 6,
       "image": "upgrade-card/turbolasers/slaved-turrets.png"
+   },
+   {
+      "name": "Spinal Armament",
+      "trait": "Modification",
+      "text": "The battery armaments for your front and rear hull zones are increased by 1 red die.",
+      "slots": ["Turbolasers"],
+      "points": 9,
+      "image": "upgrade-card/turbolasers/spinal-armament.png"
    },
    {
       "name": "XI7 Turbolasers",

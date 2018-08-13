@@ -50,6 +50,16 @@
       "image": "upgrade-card/title/dominator.png"
    },
    {
+      "name": "Endeavor",
+      "unique": true,
+      "text": "At the start of the first round, gain 1 [Contain] defense token.",
+      "slots": ["Title"],
+      "ship": "MC80 Cruiser",
+      "faction": "Rebel Alliance",
+      "points": 4,
+      "image": "upgrade-card/title/endeavor.png"
+   },
+   {
       "name": "Gallant Haven",
       "unique": true,
       "text": "Before a friendly squadron at distance 1 suffers damage from an attack, reduce the total damage by 1, to a minimum of 1.",
@@ -58,6 +68,26 @@
       "faction": "Rebel Alliance",
       "points": 8,
       "image": "upgrade-card/title/gallant-haven.png"
+   },
+   {
+      "name": "Liberty",
+      "unique": true,
+      "text": "[Squadron]: If you spent a [Squadron] token, you may activate 1 additional squadron.",
+      "slots": ["Title"],
+      "ship": "MC80 Cruiser",
+      "faction": "Rebel Alliance",
+      "points": 3,
+      "image": "upgrade-card/title/liberty.png"
+   },
+   {
+      "name": "Mon Karren",
+      "unique": true,
+      "text": "While attacking a ship, the defender cannot spend more than 1 defense token.",
+      "slots": ["Title"],
+      "ship": "MC80 Cruiser",
+      "faction": "Rebel Alliance",
+      "points": 8,
+      "image": "upgrade-card/title/mon-karren.png"
    },
    {
       "name": "Paragon",
@@ -117,6 +147,26 @@
       "faction": "Galactic Empire",
       "points": 4,
       "image": "upgrade-card/title/sovereign.png"
+   },
+   {
+      "name": "Suppressor",
+      "unique": true,
+      "text": "After an enemy ship ends its activation, if it is at distance 1-3, you may choose and exhaust 1 of its defense tokens.",
+      "slots": ["Title"],
+      "ship": "Gozanti-class Cruiser",
+      "faction": "Galactic Empire",
+      "points": 4,
+      "image": "upgrade-card/title/suppressor.png"
+   },
+   {
+      "name": "Vector",
+      "unique": true,
+      "text": "[Squadron]: The speed of each squadron without Heavy you activate is increased by 1, to a maximum of 5, until the end of its activation.",
+      "slots": ["Title"],
+      "ship": "Gozanti-class Cruiser",
+      "faction": "Galactic Empire",
+      "points": 2,
+      "image": "upgrade-card/title/vector.png"
    },
    {
       "name": "Yavaris",

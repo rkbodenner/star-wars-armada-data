@@ -9,6 +9,15 @@
       "image": "upgrade-card/officer/adar-tallon.png"
    },
    {
+      "name": "Agent Kallus",
+      "unique": true,
+      "text": "While attacking a unique squadron, add 1 die of any color to your attack pool.",
+      "slots": ["Officer"],
+      "faction": "Galactic Empire",
+      "points": 3,
+      "image": "upgrade-card/officer/agent-kallus.png"
+   },
+   {
       "name": "Captain Brunson",
       "unique": true,
       "text": "While defending at distance 1-2 of an obstacle, during the Spend Defense Tokens step, you may exhaust this card to choose and cancel 1 attack die.",
@@ -25,6 +34,13 @@
       "faction": "Galactic Empire",
       "points": 2,
       "image": "upgrade-card/officer/captain-needa.png"
+   },
+   {
+      "name": "Chart Officer",
+      "text": "After you execute a maneuver, if you overlapped an obstacle, you may discard this card instead of resolving the effects of overlapping that obstacle.",
+      "slots": ["Officer"],
+      "points": 2,
+      "image": "upgrade-card/officer/chart-officer.png"
    },
    {
       "name": "Defense Liaison",
@@ -74,6 +90,13 @@
       "slots": ["Officer"],
       "points": 3,
       "image": "upgrade-card/officer/leia-organa.png"
+   },
+   {
+      "name": "Skilled First Officer",
+      "text": "Before you reveal a command, you may discard this card to discard your top command dial.",
+      "slots": ["Officer"],
+      "points": 1,
+      "image": "upgrade-card/officer/skilled-first-officer.png"
    },
    {
       "name": "Strategic Adviser",

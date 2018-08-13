@@ -1,7 +1,7 @@
 [
    {
       "name": "Engine Techs",
-      "text": "[Navigate]: After you execute a maneuver, you may exhaust this card to execute a speed-1 maneuver.",
+      "text": "[Navigate]: After you execute a maneuver, you may exhaust this card to execute a 1-speed maneuver.",
       "slots": ["Support Team"],
       "points": 8,
       "image": "upgrade-card/support-team/engine-techs.png"
@@ -12,6 +12,13 @@
       "slots": ["Support Team"],
       "points": 5,
       "image": "upgrade-card/support-team/engineering-team.png"
+   },
+   {
+      "name": "Medical Team",
+      "text": "Before you are dealt a faceup damage card with the Crew trait, you may discard this card to discard that damage card.",
+      "slots": ["Support Team"],
+      "points": 1,
+      "image": "upgrade-card/support-team/medical-team.png"
    },
    {
       "name": "Nav Team",

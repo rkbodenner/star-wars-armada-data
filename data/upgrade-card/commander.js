@@ -27,6 +27,24 @@
       "image": "upgrade-card/commander/general-dodonna.png"
    },
    {
+      "name": "General Madine",
+      "unique": true,
+      "text": "When a friendly ship resolves a [Navigate] command, if it spent a [Navigate] dial it may increase 1 additional yaw value by 1. If it spent a [Navigate] token, it may either change its speed or increase 1 yaw value by 1.",
+      "faction": "Rebel Alliance",
+      "slots": ["Commander"],
+      "points": 30,
+      "image": "upgrade-card/commander/general-madine.png"
+   },
+   {
+      "name": "General Tagge",
+      "unique": true,
+      "text": "At the start of the third round and the fifth round, each friendly ship may recover 1 of its discarded defense tokens.",
+      "faction": "Galactic Empire",
+      "slots": ["Commander"],
+      "points": 25,
+      "image": "upgrade-card/commander/general-tagge.png"
+   },
+   {
       "name": "Grand Admiral Thrawn",
       "unique": true,
       "text": "After deploying fleets, place 3 facedown command dials on this card. At the start of each Ship Phase, you may reveal and discard 1 of those dials. If you do, until the end of the round, before each friendly ship activates, it gains 1 additional dial matching that discarded dial.",

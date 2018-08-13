@@ -1,5 +1,12 @@
 [
    {
+      "name": "Fire-Control Team",
+      "text": "During the Resolve Damage Step, you may exhaust this card to resolve 1 additional critical effect. You cannot resolve the same critical effect twice.",
+      "slots": ["Weapons Team"],
+      "points": 2,
+      "image": "upgrade-card/weapons-team/fire-control-team.png"
+   },
+   {
       "name": "Gunnery Team",
       "text": "You can attack from the same hull zone more than once per activation. That hull zone cannot target the same ship or squadron more than once during that activation.",
       "slots": ["Weapons Team"],
@@ -19,5 +26,12 @@
       "slots": ["Weapons Team"],
       "points": 5,
       "image": "upgrade-card/weapons-team/sensor-team.png"
+   },
+   {
+      "name": "Veteran Gunners",
+      "text": "While attacking, you may exhaust this card to reroll all dice in your attack pool.",
+      "slots": ["Weapons Team"],
+      "points": 5,
+      "image": "upgrade-card/weapons-team/veteran-gunners.png"
    }
 ]
