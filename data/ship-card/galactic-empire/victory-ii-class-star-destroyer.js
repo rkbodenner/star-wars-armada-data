@@ -31,6 +31,7 @@
       },
       "slots": ["Officer", "Weapons Team", "Offensive Retrofit", "Ion Cannons", "Turbolasers"],
       "points": 85,
+      "ship-image": "ship/galactic-empire/victory-class-star-destroyer.png",
       "image": "ship-card/galactic-empire/victory-ii-class-star-destroyer.png"
    }
 ]

@@ -33,6 +33,7 @@
       },
       "slots": ["Officer", "Support Team", "Defensive Retrofit", "Ion Cannons"],
       "points": 44,
+      "ship-image": "ship/rebel-alliance/cr90-corvette.png",
       "image": "ship-card/rebel-alliance/cr90-corvette-a.png"
    }
 ]

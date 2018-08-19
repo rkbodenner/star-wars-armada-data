@@ -32,6 +32,7 @@
       },
       "slots": ["Officer", "Support Team", "Turbolasers"],
       "points": 51,
+      "ship-image": "ship/rebel-alliance/nebulon-b-frigate.png",
       "image": "ship-card/rebel-alliance/nebulon-b-support-refit.png"
    }
 ]
