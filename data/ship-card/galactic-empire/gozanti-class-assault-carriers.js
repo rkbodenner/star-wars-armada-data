@@ -32,6 +32,7 @@
       },
       "slots": ["Officer", "Fleet Support", "Offensive Retrofit"],
       "points": 28,
+      "ship-image": "ship/galactic-empire/gozanti-class-carriers.png",
       "image": "ship-card/galactic-empire/gozanti-class-assault-carriers.png"
    }
 ]

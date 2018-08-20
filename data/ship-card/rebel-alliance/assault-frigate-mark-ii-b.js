@@ -32,6 +32,7 @@
       },
       "slots": ["Officer", "Weapons Team", "Offensive Retrofit", "Defensive Retrofit", "Turbolasers"],
       "points": 72,
+      "ship-image": "ship/rebel-alliance/assault-frigate-mark-ii.png",
       "image": "ship-card/rebel-alliance/assault-frigate-mark-ii-b.png"
    }
 ]

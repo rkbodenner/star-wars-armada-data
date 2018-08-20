@@ -32,6 +32,7 @@
       },
       "slots": ["Officer", "Weapons Team", "Fleet Command", "Offensive Retrofit", "Turbolasers", "Turbolasers"],
       "points": 112,
+      "ship-image": "ship/galactic-empire/imperial-class-star-destroyer.png",
       "image": "ship-card/galactic-empire/imperial-star-destroyer-cymoon-1-refit.png"
    }
 ]

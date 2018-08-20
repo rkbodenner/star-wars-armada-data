@@ -32,6 +32,7 @@
       },
       "slots": ["Officer", "Weapons Team", "Support Team", "Ion Cannons", "Turbolasers", "Turbolasers"],
       "points": 103,
+      "ship-image": "ship/rebel-alliance/mc80-liberty-cruiser.png",
       "image": "ship-card/rebel-alliance/mc80-battle-cruiser.png"
    }
 ]

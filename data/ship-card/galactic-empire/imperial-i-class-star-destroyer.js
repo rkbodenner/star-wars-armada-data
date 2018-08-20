@@ -32,6 +32,7 @@
       },
       "slots": ["Officer", "Weapons Team", "Offensive Retrofit", "Offensive Retrofit", "Ion Cannons", "Turbolasers"],
       "points": 112,
+      "ship-image": "ship/galactic-empire/imperial-class-star-destroyer.png",
       "image": "ship-card/galactic-empire/imperial-i-class-star-destroyer.png"
    }
 ]
