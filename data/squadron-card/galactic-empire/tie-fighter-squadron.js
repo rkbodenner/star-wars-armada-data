@@ -10,6 +10,7 @@
       "attack": [0, 1, 0],
       "keywords": ["Swarm"],
       "points": 8,
+      "squadron-image": "squadron/galactic-empire/tie-fighter-squadron.png",
       "image": "squadron-card/galactic-empire/tie-fighter-squadron.png"
    }
 ]

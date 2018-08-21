@@ -13,6 +13,7 @@
       "keywords": ["Bomber", "Escort"],
       "defense-tokens": ["Brace", "Brace"],
       "points": 20,
+      "squadron-image": "squadron/rebel-alliance/x-wing-squadron.png",
       "image": "squadron-card/rebel-alliance/luke-skywalker.png"
    }
 ]

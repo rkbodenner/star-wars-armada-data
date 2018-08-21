@@ -13,6 +13,7 @@
       "keywords": ["Assault", "Rogue"],
       "defense-tokens": ["Brace"],
       "points": 23,
+      "squadron-image": "squadron/galactic-empire/mandalorian-gauntlet-fighter.png",
       "image": "squadron-card/galactic-empire/gar-saxon.png"
    }
 ]

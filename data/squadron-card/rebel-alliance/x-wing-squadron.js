@@ -10,6 +10,7 @@
       "attack": [1, 0, 0],
       "keywords": ["Bomber", "Escort"],
       "points": 13,
+      "squadron-image": "squadron/rebel-alliance/x-wing-squadron.png",
       "image": "squadron-card/rebel-alliance/x-wing-squadron.png"
    }
 ]

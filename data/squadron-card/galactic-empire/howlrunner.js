@@ -13,6 +13,7 @@
       "keywords": ["Swarm"],
       "defense-tokens": ["Brace", "Scatter"],
       "points": 16,
+      "squadron-image": "squadron/galactic-empire/tie-fighter-squadron.png",
       "image": "squadron-card/galactic-empire/howlrunner.png"
    }
 ]

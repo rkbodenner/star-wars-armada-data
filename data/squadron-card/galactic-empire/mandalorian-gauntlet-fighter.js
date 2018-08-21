@@ -12,6 +12,7 @@
       "keywords": ["Assault", "Rogue"],
       "defense-tokens": [],
       "points": 20,
+      "squadron-image": "squadron/galactic-empire/mandalorian-gauntlet-fighter.png",
       "image": "squadron-card/galactic-empire/mandalorian-gauntlet-fighter.png"
    }
 ]
