@@ -1,5 +1,16 @@
 [
     {
+        name: "Aspiration",
+        unique: true,
+        text:
+            'When you deploy this ship, you may move shields to up to 2 of your hull zones from your other hull zones. If you do, the number of shields in a zone cannot exceed a maximum of "6". You cannot recover shields while any zone is greater than its maximum shield value.',
+        slots: ["Title"],
+        ship: "MC75 Cruiser",
+        faction: "Rebel Alliance",
+        points: 3,
+        image: "upgrade-card/title/aspiration.png"
+    },
+    {
         name: "Avenger",
         unique: true,
         text:
@@ -88,6 +99,18 @@
         image: "upgrade-card/title/liberty.png"
     },
     {
+        name: "Mon Calamari Exodus Fleet",
+        unique: true,
+        restriction: '"MC" only.',
+        text:
+            "[Repair]: You may choose and exhaust another copy of this card on a friendly ship at distance 1-4. If you do, gain 2 additional engineering points.",
+        slots: ["Title"],
+        ship: "MC75 Cruiser",
+        faction: "Rebel Alliance",
+        points: 5,
+        image: "upgrade-card/title/mon-calamari-exodus-fleet.png"
+    },
+    {
         name: "Mon Karren",
         unique: true,
         text:
@@ -108,6 +131,18 @@
         faction: "Rebel Alliance",
         points: 5,
         image: "upgrade-card/title/paragon.png"
+    },
+    {
+        name: "Profundity",
+        unique: true,
+        text:
+            "Before deploying fleets, you may set aside 1 small ship with a command value of 1." +
+            "\nAt the start of any round, you may deploy the set-aside ship at distance 1. You may un-equip up to 1 [Commander] and 1 [Officer] upgrade cards and equip them to it (if able).",
+        slots: ["Title"],
+        ship: "MC75 Cruiser",
+        faction: "Rebel Alliance",
+        points: 7,
+        image: "upgrade-card/title/profundity.png"
     },
     {
         name: "Redemption",

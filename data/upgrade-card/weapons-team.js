@@ -1,5 +1,14 @@
 [
     {
+        name: "Caitken and Shollan",
+        text:
+            "While attacking, you may exhaust this card to reroll any number of dice of 1 color.",
+        slots: ["Weapons Team"],
+        faction: "Rebel Alliance",
+        points: 6,
+        image: "upgrade-card/weapons-team/caitken-and-shollan.png"
+    },
+    {
         name: "Fire-Control Team",
         text:
             "During the Resolve Damage Step, you may exhaust this card to resolve 1 additional critical effect. You cannot resolve the same critical effect twice.",

@@ -20,6 +20,17 @@
         image: "upgrade-card/officer/agent-kallus.png"
     },
     {
+        name: "Bail Organa",
+        unique: true,
+        restriction: "Medium or large ship only.",
+        text:
+            "After deploying fleets, you may place 1 round token on this card. At the start of the Ship Phase of the round matching that round token, if you are the second player you must activate, if you are the first player, you may gain up to 2 command tokens of your choice.",
+        faction: "Rebel Alliance",
+        slots: ["Officer"],
+        points: 7,
+        image: "upgrade-card/officer/bail-organa.png"
+    },
+    {
         name: "Captain Brunson",
         unique: true,
         text:
@@ -62,6 +73,16 @@
         slots: ["Officer"],
         points: 6,
         image: "upgrade-card/officer/engineering-captain.png"
+    },
+    {
+        name: "General Draven",
+        unique: true,
+        text:
+            "While attacking a squadron with Counter or Intel, add 1 die of any color to your attack pool.",
+        faction: "Rebel Alliance",
+        slots: ["Officer"],
+        points: 3,
+        image: "upgrade-card/officer/general-draven.png"
     },
     {
         name: "Governor Pryce",

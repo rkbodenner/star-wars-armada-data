@@ -1,5 +1,15 @@
 [
     {
+        name: "Admiral Raddus",
+        unique: true,
+        text:
+            "Before deploying fleets, you may set aside 1 other friendly ship. At the start of any round, you may deploy that ship at distance 1 of a friendly ship. That ship cannot be deployed overlapping squadrons and cannot be the first ship to activate that round.",
+        faction: "Rebel Alliance",
+        slots: ["Commander"],
+        points: 26,
+        image: "upgrade-card/commander/admiral-raddus.png"
+    },
+    {
         name: "Darth Vader",
         unique: true,
         text:

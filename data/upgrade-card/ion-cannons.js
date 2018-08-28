@@ -1,5 +1,13 @@
 [
     {
+        name: "Heavy Ion Emplacements",
+        text:
+            "Blue [Critical Hit]: You may exhaust this card. If you do, the defending hull zone and each adjacent hull zone loses 1 shield.",
+        slots: ["Ion Cannons"],
+        points: 9,
+        image: "upgrade-card/ion-cannons/heavy-ion-emplacements.png"
+    },
+    {
         name: "High-Capacity Ion Turbines",
         trait: "Modification",
         text:
