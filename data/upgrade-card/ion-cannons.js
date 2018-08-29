@@ -46,7 +46,7 @@
             "Blue [Critical Hit]: Exhaust all of the defender's defense tokens.",
         slots: ["Ion Cannons"],
         points: 8,
-        image: "upgrade-card/ion-cannons/electronic-countermeasures.png"
+        image: "upgrade-card/ion-cannons/overload-pulse.png"
     },
     {
         name: "SW-7 Ion Batteries",
