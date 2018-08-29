@@ -8,6 +8,14 @@
         image: "upgrade-card/ordnance/assault-concussion-missiles.png"
     },
     {
+        name: "Assault Proton Torpedoes",
+        text:
+            "Black [Critical Hit]: Deal 1 faceup damage card to the defender.",
+        slots: ["Ordnance"],
+        points: 5,
+        image: "upgrade-card/ordnance/assault-proton-torpedoes.png"
+    },
+    {
         name: "Ordnance Pods",
         restriction: "Medium or large ship only.",
         text:
@@ -15,6 +23,15 @@
         slots: ["Ordnance"],
         points: 3,
         image: "upgrade-card/ordnance/ordnance-pods.png"
+    },
+    {
+        name: "Rapid Reload",
+        trait: "Modification",
+        text:
+            "The battery armaments for your left and right hull zones are increased by 1 black die.",
+        slots: ["Ordnance"],
+        points: 8,
+        image: "upgrade-card/ordnance/rapid-reload.png"
     },
     {
         name: "Wide-Area Barrage",

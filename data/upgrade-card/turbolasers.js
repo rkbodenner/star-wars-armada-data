@@ -51,6 +51,14 @@
         image: "upgrade-card/turbolasers/spinal-armament.png"
     },
     {
+        name: "Turbolaser Reroute Circuits",
+        text:
+            "While attacking, you may exhaust this card and spend 1 [Evade] defense token to change 1 red die to a face with a [Critical Hit] icon or 2 [Hit] icons.",
+        slots: ["Turbolasers"],
+        points: 6,
+        image: "upgrade-card/turbolasers/xi7-turbolasers.png"
+    },
+    {
         name: "XI7 Turbolasers",
         text:
             "While attacking, if the defender spends a [Redirect] token, it cannot suffer more than 1 damage on hull zones other than the defending hull zone.",

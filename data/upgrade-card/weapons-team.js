@@ -25,6 +25,13 @@
         image: "upgrade-card/weapons-team/gunnery-team.png"
     },
     {
+        name: "Ordnance Experts",
+        text: "While attacking, you may reroll any number of your black dice.",
+        slots: ["Weapons Team"],
+        points: 4,
+        image: "upgrade-card/weapons-team/ordnance-experts.png"
+    },
+    {
         name: "Ruthless Strategists",
         text:
             "After attacking a squadron, you may deal 1 damage to a friendly squadron engaged with the defender. If you do, the defender suffers 1 damage.",

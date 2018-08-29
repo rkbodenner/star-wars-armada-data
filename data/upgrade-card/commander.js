@@ -60,6 +60,16 @@
         image: "upgrade-card/commander/general-madine.png"
     },
     {
+        name: "General Rieekan",
+        unique: true,
+        text:
+            "Once per round, when a friendly ship or friendly unique squadron is destroyed, it remains in the play area and is treated as if it was not destroyed until the end of the Status Phase.",
+        faction: "Rebel Alliance",
+        slots: ["Commander"],
+        points: 30,
+        image: "upgrade-card/commander/general-rieekan.png"
+    },
+    {
         name: "General Tagge",
         unique: true,
         text:

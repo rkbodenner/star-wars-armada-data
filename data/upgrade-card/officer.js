@@ -114,6 +114,16 @@
         image: "upgrade-card/officer/intel-officer.png"
     },
     {
+        name: "Lando Calrissian",
+        unique: true,
+        text:
+            "While defending, during the Spend Defense Tokens Step, you may discard this card to force the attacker to reroll 1 or more dice of your choice.",
+        faction: "Rebel Alliance",
+        slots: ["Officer"],
+        points: 4,
+        image: "upgrade-card/officer/lando-calrissian.png"
+    },
+    {
         name: "Leia Organa",
         unique: true,
         text:

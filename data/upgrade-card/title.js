@@ -1,5 +1,16 @@
 [
     {
+        name: "Admonition",
+        unique: true,
+        text:
+            "While defending, during the Spend Defense Tokens Step, you may discard a defense token to cancel 1 attack die.",
+        slots: ["Title"],
+        ship: "MC30c Frigate",
+        faction: "Rebel Alliance",
+        points: 8,
+        image: "upgrade-card/title/admonition.png"
+    },
+    {
         name: "Aspiration",
         unique: true,
         text:
@@ -86,6 +97,18 @@
         faction: "Rebel Alliance",
         points: 4,
         image: "upgrade-card/title/endeavor.png"
+    },
+    {
+        name: "Foresight",
+        unique: true,
+        text:
+            "When you resolve the [Evade] defense effect, you can affect 1 additional die." +
+            "\nWhen you resolve the [Redirect] defense effect, you can choose 1 additional adjacent hull zone to suffer damage.",
+        slots: ["Title"],
+        ship: "MC30c Frigate",
+        faction: "Rebel Alliance",
+        points: 8,
+        image: "upgrade-card/title/foresight.png"
     },
     {
         name: "Gallant Haven",
