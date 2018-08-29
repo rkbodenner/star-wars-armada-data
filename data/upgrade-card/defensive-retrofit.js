@@ -8,6 +8,14 @@
         image: "upgrade-card/defensive-retrofit/advanced-projectors.png"
     },
     {
+        name: "Cluster Bombs",
+        text:
+            "After a squadron performs an attack against you, even if you are destroyed, you may discard this card to roll 4 blue dice. That squadron suffers 1 damage for each [Hit] or [Critical Hit] icon rolled.",
+        slots: ["Defensive Retrofit"],
+        points: 5,
+        image: "upgrade-card/defensive-retrofit/cluster-bombs.png"
+    },
+    {
         name: "Early Warning System",
         text:
             "At the start of each Ship Phase, you may choose 1 of your hull zones and mark it with a chaff token. Until the end of the round, while a ship or squadron is attacking that hull zone, the attack is obstructed. After the Status Phase, remove that chaff token.",

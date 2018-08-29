@@ -39,5 +39,13 @@
         slots: ["Ion Cannons"],
         points: 8,
         image: "upgrade-card/ion-cannons/electronic-countermeasures.png"
+    },
+    {
+        name: "SW-7 Ion Batteries",
+        text:
+            "While attacking a ship, each of your unspent blue [Accuracy] icons adds 1 damage to the damage total.",
+        slots: ["Ion Cannons"],
+        points: 5,
+        image: "upgrade-card/ion-cannons/sw-7-ion-batteries.png"
     }
 ];

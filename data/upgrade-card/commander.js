@@ -1,5 +1,15 @@
 [
     {
+        name: "Admiral Ackbar",
+        unique: true,
+        text:
+            "Before a friendly ship's Attack Step, it may choose to attack from only its left and right hull zones this round. If it does, it may add 2 red dice to its attack pool while attacking a ship.",
+        faction: "Rebel Alliance",
+        slots: ["Commander"],
+        points: 38,
+        image: "upgrade-card/commander/admiral-ackbar.png"
+    },
+    {
         name: "Admiral Raddus",
         unique: true,
         text:

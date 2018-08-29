@@ -124,6 +124,14 @@
         image: "upgrade-card/officer/leia-organa.png"
     },
     {
+        name: "Navigation Officer",
+        text:
+            "Before you reveal a command, you may change that command to a [Navigate] command.",
+        slots: ["Officer"],
+        points: 6,
+        image: "upgrade-card/officer/navigation-officer.png"
+    },
+    {
         name: "Skilled First Officer",
         text:
             "Before you reveal a command, you may discard this card to discard your top command dial.",
@@ -174,6 +182,16 @@
         slots: ["Officer"],
         points: 3,
         image: "upgrade-card/officer/veteran-captain.png"
+    },
+    {
+        name: "Walex Blissex",
+        unique: true,
+        text:
+            "When you activate, you may discard this card to recover 1 of your discarded defense tokens.",
+        slots: ["Officer"],
+        faction: "Rebel Alliance",
+        points: 5,
+        image: "upgrade-card/officer/walex-blissex.png"
     },
     {
         name: "Weapons Liaison",

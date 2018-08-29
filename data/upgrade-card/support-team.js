@@ -29,5 +29,13 @@
         slots: ["Support Team"],
         points: 4,
         image: "upgrade-card/support-team/nav-team.png"
+    },
+    {
+        name: "Projection Experts",
+        text:
+            "[Repair]: You may spend up to 2 engineering points to move that many shields from your ship to a friendly ship at distance 1-5.",
+        slots: ["Support Team"],
+        points: 6,
+        image: "upgrade-card/support-team/projection-experts.png"
     }
 ];

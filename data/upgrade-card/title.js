@@ -33,6 +33,17 @@
         image: "upgrade-card/title/chimaera.png"
     },
     {
+        name: "Defiance",
+        unique: true,
+        text:
+            "While attacking a ship that has already activated this round, add 1 die of any color to your attack pool.",
+        slots: ["Title"],
+        ship: "MC80 Cruiser",
+        faction: "Rebel Alliance",
+        points: 5,
+        image: "upgrade-card/title/defiance.png"
+    },
+    {
         name: "Devastator",
         unique: true,
         text:
@@ -86,6 +97,28 @@
         faction: "Rebel Alliance",
         points: 8,
         image: "upgrade-card/title/gallant-haven.png"
+    },
+    {
+        name: "Home One",
+        unique: true,
+        text:
+            "While another friendly ship at distance 1-5 is attacking, it may change 1 die to a face with an [Accuracy] icon.",
+        slots: ["Title"],
+        ship: "MC80 Cruiser",
+        faction: "Rebel Alliance",
+        points: 7,
+        image: "upgrade-card/title/home-one.png"
+    },
+    {
+        name: "Independence",
+        unique: true,
+        text:
+            "[Squadron]: Each squadron you activate may increase its speed to 4 until the end of its activation. Squadrons that change speed in this way cannot attack this activation.",
+        slots: ["Title"],
+        ship: "MC80 Cruiser",
+        faction: "Rebel Alliance",
+        points: 8,
+        image: "upgrade-card/title/independence.png"
     },
     {
         name: "Liberty",
