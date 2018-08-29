@@ -37,7 +37,7 @@
             "Turbolasers"
         ],
         points: 104,
-        "ship-image": "ship/rebel-alliance/mc75-armored-cruiser.png",
+        "ship-image": "ship/rebel-alliance/mc75-cruiser.png",
         image: "ship-card/rebel-alliance/mc75-armored-cruiser.png"
     }
 ];

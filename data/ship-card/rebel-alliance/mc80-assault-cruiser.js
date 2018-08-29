@@ -35,7 +35,7 @@
             "Turbolasers"
         ],
         points: 114,
-        "ship-image": "ship/rebel-alliance/mc80-assault-cruiser.png",
+        "ship-image": "ship/rebel-alliance/mc80-home-one-cruiser.png",
         image: "ship-card/rebel-alliance/mc80-assault-cruiser.png"
     }
 ];

@@ -36,7 +36,7 @@
             "Turbolasers"
         ],
         points: 63,
-        "ship-image": "ship/rebel-alliance/mc30c-torpedo-frigate.png",
+        "ship-image": "ship/rebel-alliance/mc30c-frigate.png",
         image: "ship-card/rebel-alliance/mc30c-torpedo-frigate.png"
     }
 ];

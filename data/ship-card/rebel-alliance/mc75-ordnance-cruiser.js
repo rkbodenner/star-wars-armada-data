@@ -36,7 +36,7 @@
             "Ordnance"
         ],
         points: 100,
-        "ship-image": "ship/rebel-alliance/mc75-ordnance-cruiser.png",
+        "ship-image": "ship/rebel-alliance/mc75-cruiser.png",
         image: "ship-card/rebel-alliance/mc75-ordnance-cruiser.png"
     }
 ];
