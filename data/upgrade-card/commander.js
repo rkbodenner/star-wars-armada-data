@@ -10,6 +10,16 @@
         image: "upgrade-card/commander/admiral-ackbar.png"
     },
     {
+        name: "Admiral Konstantine",
+        unique: true,
+        text:
+            "At the start of each Status Phase, for each enemy ship at distance 1-5 of at least 2 friendly medium or large ships, you may increase or decrease that enemy ship's speed by 1 to a minimum of speed 1.",
+        faction: "Galactic Empire",
+        slots: ["Commander"],
+        points: 23,
+        image: "upgrade-card/commander/admiral-konstantine.png"
+    },
+    {
         name: "Admiral Raddus",
         unique: true,
         text:

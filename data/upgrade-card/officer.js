@@ -10,6 +10,16 @@
         image: "upgrade-card/officer/adar-tallon.png"
     },
     {
+        name: "Admiral Titus",
+        unique: true,
+        text:
+            "At the start of the first round, you may change 1 enemy ship's speed by 1.",
+        slots: ["Officer"],
+        faction: "Galactic Empire",
+        points: 2,
+        image: "upgrade-card/officer/admiral-titus.png"
+    },
+    {
         name: "Agent Kallus",
         unique: true,
         text:
@@ -59,6 +69,16 @@
         image: "upgrade-card/officer/chart-officer.png"
     },
     {
+        name: "Commandant Aresko",
+        unique: true,
+        text:
+            "When another friendly ship at distance 1-3 reveals a command, you may exhaust this card to gain 1 command token of the same type.",
+        slots: ["Officer"],
+        faction: "Galactic Empire",
+        points: 7,
+        image: "upgrade-card/officer/commandant-aresko.png"
+    },
+    {
         name: "Defense Liaison",
         text:
             "Before you reveal a command, you may spend 1 command token to change that command to a [Navigate] or [Repair] command.",
@@ -73,6 +93,14 @@
         slots: ["Officer"],
         points: 6,
         image: "upgrade-card/officer/engineering-captain.png"
+    },
+    {
+        name: "Flight Commander",
+        text:
+            "During your activation, you can resolve your [Squadron] command after you execute a maneuver.",
+        slots: ["Officer"],
+        points: 3,
+        image: "upgrade-card/officer/flight-commander.png"
     },
     {
         name: "General Draven",

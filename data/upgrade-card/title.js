@@ -144,6 +144,17 @@
         image: "upgrade-card/title/independence.png"
     },
     {
+        name: "Interdictor",
+        unique: true,
+        text:
+            "When a ship activates, you may exhaust this card to ready 1 other upgrade card equipped to this ship.",
+        slots: ["Title"],
+        ship: "Interdictor",
+        faction: "Galactic Empire",
+        points: 3,
+        image: "upgrade-card/title/interdictor.png"
+    },
+    {
         name: "Liberty",
         unique: true,
         text:

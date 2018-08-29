@@ -15,6 +15,14 @@
         image: "upgrade-card/support-team/engineering-team.png"
     },
     {
+        name: "Fighter Coordination Team",
+        text:
+            "After you execute a maneuver, you may select a number of unengaged friendly squadrons up to your squadron value at close-medium range. Those squadrons may move up to distance 1.",
+        slots: ["Support Team"],
+        points: 3,
+        image: "upgrade-card/support-team/fighter-coordination-team.png"
+    },
+    {
         name: "Medical Team",
         text:
             "Before you are dealt a faceup damage card with the Crew trait, you may discard this card to discard that damage card.",

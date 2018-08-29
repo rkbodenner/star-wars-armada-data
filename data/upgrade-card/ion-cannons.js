@@ -17,6 +17,14 @@
         image: "upgrade-card/ion-cannons/high-capacity-ion-turbines.png"
     },
     {
+        name: "Leading Shots",
+        text:
+            "While attacking, you may spend 1 blue die to reroll any number of dice in your attack pool.",
+        slots: ["Ion Cannons"],
+        points: 4,
+        image: "upgrade-card/ion-cannons/leading-shots.png"
+    },
+    {
         name: "MS-1 Ion Cannons",
         text:
             "Blue [Critical Hit]: Choose and exhaust 1 of the defender's upgrade cards.",

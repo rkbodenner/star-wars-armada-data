@@ -39,5 +39,13 @@
         slots: ["Offensive Retrofit"],
         points: 5,
         image: "upgrade-card/offensive-retrofit/point-defense-reroute.png"
+    },
+    {
+        name: "Quad Laser Turrets",
+        text:
+            "While defending at distance 1, if the attacker is a squadron, you have Counter 1.",
+        slots: ["Offensive Retrofit"],
+        points: 5,
+        image: "upgrade-card/offensive-retrofit/quad-laser-turrets.png"
     }
 ];
