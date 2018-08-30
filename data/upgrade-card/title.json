@@ -101,8 +101,7 @@
     "name": "Foresight",
     "unique": true,
     "text":
-      "When you resolve the [Evade] defense effect, you can affect 1 additional die." +
-      "\nWhen you resolve the [Redirect] defense effect, you can choose 1 additional adjacent hull zone to suffer damage.",
+      "When you resolve the [Evade] defense effect, you can affect 1 additional die.\nWhen you resolve the [Redirect] defense effect, you can choose 1 additional adjacent hull zone to suffer damage.",
     "slots": ["Title"],
     "ship": "MC30c Frigate",
     "faction": "Rebel Alliance",
@@ -200,8 +199,7 @@
     "name": "Profundity",
     "unique": true,
     "text":
-      "Before deploying fleets, you may set aside 1 small ship with a command value of 1." +
-      "\nAt the start of any round, you may deploy the set-aside ship at distance 1. You may un-equip up to 1 [Commander] and 1 [Officer] upgrade cards and equip them to it (if able).",
+      "Before deploying fleets, you may set aside 1 small ship with a command value of 1.\nAt the start of any round, you may deploy the set-aside ship at distance 1. You may un-equip up to 1 [Commander] and 1 [Officer] upgrade cards and equip them to it (if able).",
     "slots": ["Title"],
     "ship": "MC75 Cruiser",
     "faction": "Rebel Alliance",
