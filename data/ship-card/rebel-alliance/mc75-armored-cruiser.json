@@ -1,0 +1,43 @@
+[
+  {
+    "name": "MC75 Armored Cruiser",
+    "size": "large",
+    "faction": "Rebel Alliance",
+    "hull": 9,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 1, 1],
+    "command": 3,
+    "squadron": 3,
+    "engineering": 4,
+    "defense-tokens": ["Brace", "Redirect", "Contain", "Contain"],
+    "attack": {
+      "front": [0, 3, 2],
+      "right": [3, 2, 0],
+      "left": [3, 2, 0],
+      "rear": [0, 1, 1]
+    },
+    "shield": {
+      "front": 4,
+      "right": 3,
+      "left": 3,
+      "rear": 3
+    },
+    "speed-chart": {
+      "1": ["||"],
+      "2": ["|", "|"],
+      "3": ["-", "|", "|"]
+    },
+    "slots": [
+      "Officer",
+      "Weapons Team",
+      "Offensive Retrofit",
+      "Defensive Retrofit",
+      "Ordnance",
+      "Ion Cannons",
+      "Turbolasers"
+    ],
+    "points": 104,
+    "ship-image": "ship/rebel-alliance/mc75-cruiser.png",
+    "image": "ship-card/rebel-alliance/mc75-armored-cruiser.png"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "name": "MC30c Torpedo Frigate",
+    "size": "small",
+    "faction": "Rebel Alliance",
+    "hull": 4,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 1, 0],
+    "command": 2,
+    "squadron": 1,
+    "engineering": 3,
+    "defense-tokens": ["Evade", "Evade", "Redirect", "Redirect"],
+    "attack": {
+      "front": [0, 1, 2],
+      "right": [0, 2, 3],
+      "left": [0, 2, 3],
+      "rear": [0, 1, 1]
+    },
+    "shield": {
+      "front": 3,
+      "right": 3,
+      "left": 3,
+      "rear": 2
+    },
+    "speed-chart": {
+      "1": ["|"],
+      "2": ["|", "|"],
+      "3": ["-", "|", "||"],
+      "4": ["-", "|", "|", "-"]
+    },
+    "slots": ["Officer", "Weapons Team", "Defensive Retrofit", "Ordnance", "Turbolasers"],
+    "points": 63,
+    "ship-image": "ship/rebel-alliance/mc30c-frigate.png",
+    "image": "ship-card/rebel-alliance/mc30c-torpedo-frigate.png"
+  }
+]
