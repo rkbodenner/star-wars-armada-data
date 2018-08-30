@@ -23,9 +23,9 @@
     },
     "defense-tokens": ["Evade", "Brace", "Redirect"],
     "speed-chart": {
-      1: ["|"],
-      2: ["|", "|"],
-      3: ["-", "|", "|"]
+      "1": ["|"],
+      "2": ["|", "|"],
+      "3": ["-", "|", "|"]
     },
     "slots": ["Officer", "Weapons Team", "Offensive Retrofit", "Defensive Retrofit", "Turbolasers"],
     "points": 81,
