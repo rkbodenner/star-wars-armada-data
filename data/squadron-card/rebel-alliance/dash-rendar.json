@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Dash Rendar",
+    "subname": "Outrider",
+    "unique": true,
+    "faction": "Rebel Alliance",
+    "speed": 4,
+    "hull": 6,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 4, 0],
+    "attack": [0, 0, 1],
+    "text":
+      "While attacking, you may reroll 1 die for each enemy squadron or enemy ship at distance 1.",
+    "keywords": ["Bomber", "Rogue"],
+    "defense-tokens": ["Brace", "Brace"],
+    "points": 24,
+    "squadron-image": "squadron/rebel-alliance/yt-2400.png",
+    "image": "squadron-card/rebel-alliance/dash-rendar.png"
+  }
+]

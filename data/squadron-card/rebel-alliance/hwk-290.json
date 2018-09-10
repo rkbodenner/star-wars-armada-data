@@ -1,0 +1,16 @@
+[
+  {
+    "name": "HWK-290",
+    "subname": "",
+    "faction": "Rebel Alliance",
+    "speed": 3,
+    "hull": 4,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 2, 0],
+    "attack": [0, 1, 0],
+    "keywords": ["Counter 2", "Intel"],
+    "points": 12,
+    "squadron-image": "squadron/rebel-alliance/hwk-290.png",
+    "image": "squadron-card/rebel-alliance/hwk-290.png"
+  }
+]

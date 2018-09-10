@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Han Solo",
+    "subname": "Millennium Falcon",
+    "unique": true,
+    "faction": "Rebel Alliance",
+    "speed": 3,
+    "hull": 7,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 2, 2],
+    "attack": [0, 1, 1],
+    "text":
+      "At the start of the Ship Phase, you may activate as if you were activated by a [Squadron] command.",
+    "keywords": ["Grit", "Rogue"],
+    "defense-tokens": ["Brace", "Brace"],
+    "points": 26,
+    "squadron-image": "squadron/rebel-alliance/yt-1300.png",
+    "image": "squadron-card/rebel-alliance/han-solo.png"
+  }
+]

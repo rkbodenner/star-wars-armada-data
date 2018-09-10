@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Firespray-31",
+    "subname": "",
+    "faction": "Galactic Empire",
+    "speed": 3,
+    "hull": 6,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 3, 0],
+    "attack": [0, 2, 0],
+    "keywords": ["Bomber", "Rogue"],
+    "points": 18,
+    "squadron-image": "squadron/galactic-empire/firespray-31.png",
+    "image": "squadron-card/galactic-empire/firespray-31.png"
+  }
+]

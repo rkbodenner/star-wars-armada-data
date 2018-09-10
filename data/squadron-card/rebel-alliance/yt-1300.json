@@ -1,0 +1,16 @@
+[
+  {
+    "name": "YT-1300",
+    "subname": "",
+    "faction": "Rebel Alliance",
+    "speed": 2,
+    "hull": 7,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 3, 0],
+    "attack": [0, 1, 0],
+    "keywords": ["Counter 1", "Escort"],
+    "points": 13,
+    "squadron-image": "squadron/rebel-alliance/yt-1300.png",
+    "image": "squadron-card/rebel-alliance/yt-1300.png"
+  }
+]

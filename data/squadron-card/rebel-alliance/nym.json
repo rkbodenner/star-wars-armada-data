@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Nym",
+    "subname": "Havoc",
+    "unique": true,
+    "faction": "Rebel Alliance",
+    "speed": 3,
+    "hull": 6,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 2, 0],
+    "attack": [0, 1, 1],
+    "text":
+      "Blue [Critical Hit]: If the defender is a ship, you may choose and discard 1 of its defense tokens.",
+    "keywords": ["Bomber", "Grit"],
+    "defense-tokens": ["Brace", "Brace"],
+    "points": 21,
+    "squadron-image": "squadron/rebel-alliance/scurrg-h-6-bomber.png",
+    "image": "squadron-card/rebel-alliance/nym.png"
+  }
+]

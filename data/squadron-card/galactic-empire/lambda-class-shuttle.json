@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lambda-class Shuttle",
+    "subname": "",
+    "faction": "Galactic Empire",
+    "speed": 3,
+    "hull": 6,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 0, 2],
+    "attack": [0, 1, 0],
+    "keywords": ["Heavy", "Relay 2", "Strategic"],
+    "points": 15,
+    "squadron-image": "squadron/galactic-empire/lambda-class-shuttle.png",
+    "image": "squadron-card/galactic-empire/lambda-class-shuttle.png"
+  }
+]

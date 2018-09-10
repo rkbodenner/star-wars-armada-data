@@ -1,0 +1,19 @@
+[
+  {
+    "name": "IG-88",
+    "subname": "IG-2000",
+    "unique": true,
+    "faction": "Galactic Empire",
+    "speed": 5,
+    "hull": 5,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 4, 0],
+    "attack": [0, 0, 1],
+    "text": "You ignore the escort and counter keywords on enemy squadrons.",
+    "keywords": ["Counter 2", "Rogue"],
+    "defense-tokens": ["Scatter"],
+    "points": 21,
+    "squadron-image": "squadron/galactic-empire/aggressor-assault-fighter.png",
+    "image": "squadron-card/galactic-empire/ig-88.png"
+  }
+]

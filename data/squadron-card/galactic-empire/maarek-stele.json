@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Maarek Stele",
+    "subname": "TIE Defender Squadron",
+    "unique": true,
+    "faction": "Galactic Empire",
+    "speed": 5,
+    "hull": 6,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 2, 2],
+    "attack": [0, 2, 0],
+    "text": "While attacking, you may change 1 die to a face with a [Critical Hit] icon.",
+    "keywords": ["Bomber", "Grit"],
+    "defense-tokens": ["Brace", "Brace"],
+    "points": 21,
+    "squadron-image": "squadron/galactic-empire/tie-defender-squadron.png",
+    "image": "squadron-card/galactic-empire/maarek-stele.png"
+  }
+]

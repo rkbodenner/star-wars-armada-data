@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TIE Defender Squadron",
+    "subname": "",
+    "faction": "Galactic Empire",
+    "speed": 5,
+    "hull": 6,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 2, 2],
+    "attack": [0, 1, 0],
+    "keywords": ["Bomber"],
+    "points": 16,
+    "squadron-image": "squadron/galactic-empire/tie-defender-squadron.png",
+    "image": "squadron-card/galactic-empire/tie-defender-squadron.png"
+  }
+]

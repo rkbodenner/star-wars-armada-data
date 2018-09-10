@@ -1,0 +1,16 @@
+[
+  {
+    "name": "JumpMaster 5000",
+    "subname": "",
+    "faction": "Galactic Empire",
+    "speed": 4,
+    "hull": 4,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 2, 0],
+    "attack": [0, 1, 0],
+    "keywords": ["Intel", "Swarm"],
+    "points": 12,
+    "squadron-image": "squadron/galactic-empire/jumpmaster-5000.png",
+    "image": "squadron-card/galactic-empire/jumpmaster-5000.png"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TIE Phantom Squadron",
+    "subname": "",
+    "faction": "Galactic Empire",
+    "speed": 4,
+    "hull": 4,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 4, 0],
+    "attack": [2, 0, 0],
+    "keywords": ["Cloak"],
+    "points": 14,
+    "squadron-image": "squadron/galactic-empire/tie-phantom-squadron.png",
+    "image": "squadron-card/galactic-empire/tie-phantom-squadron.png"
+  }
+]

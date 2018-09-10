@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Aggressor Assault Fighter",
+    "subname": "",
+    "faction": "Galactic Empire",
+    "speed": 3,
+    "hull": 5,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 4, 0],
+    "attack": [0, 0, 1],
+    "keywords": ["Counter 1", "Rogue"],
+    "points": 16,
+    "squadron-image": "squadron/galactic-empire/aggressor-assault-fighter.png",
+    "image": "squadron-card/galactic-empire/aggressor-assault-fighter.png"
+  }
+]

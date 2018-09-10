@@ -1,0 +1,16 @@
+[
+  {
+    "name": "VT-49 Decimator",
+    "subname": "",
+    "faction": "Galactic Empire",
+    "speed": 3,
+    "hull": 8,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 0, 3],
+    "attack": [0, 3, 0],
+    "keywords": ["Counter 1", "Heavy", "Rogue"],
+    "points": 27,
+    "squadron-image": "squadron/galactic-empire/vt-49-decimator.png",
+    "image": "squadron-card/galactic-empire/vt-49-decimator.png"
+  }
+]

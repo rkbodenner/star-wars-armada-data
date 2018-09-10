@@ -1,0 +1,16 @@
+[
+  {
+    "name": "YV-666",
+    "subname": "",
+    "faction": "Galactic Empire",
+    "speed": 2,
+    "hull": 7,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 2, 2],
+    "attack": [0, 1, 0],
+    "keywords": ["Grit", "Heavy", "Rogue"],
+    "points": 15,
+    "squadron-image": "squadron/galactic-empire/yv-666.png",
+    "image": "squadron-card/galactic-empire/yv-666.png"
+  }
+]

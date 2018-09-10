@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Scurrg H-6 Bomber",
+    "subname": "",
+    "faction": "Rebel Alliance",
+    "speed": 3,
+    "hull": 6,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 2, 0],
+    "attack": [0, 1, 1],
+    "keywords": ["Bomber", "Grit", "Heavy"],
+    "points": 16,
+    "squadron-image": "squadron/rebel-alliance/scurrg-h-6-bomber.png",
+    "image": "squadron-card/rebel-alliance/scurrg-h-6-bomber.png"
+  }
+]

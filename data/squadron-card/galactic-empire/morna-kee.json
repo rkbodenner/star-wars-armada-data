@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Morna Kee",
+    "subname": "VT-49 Decimator",
+    "unique": true,
+    "faction": "Galactic Empire",
+    "speed": 3,
+    "hull": 8,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 0, 3],
+    "attack": [0, 3, 0],
+    "text":
+      "While attacking, you may spend 1 defense token to reroll any number of dice in your attack pool. When you activate, you recover 1 of your discarded defense tokens.",
+    "keywords": ["Counter 1", "Rogue"],
+    "defense-tokens": ["Brace"],
+    "points": 27,
+    "squadron-image": "squadron/galactic-empire/vt-49-decimator.png",
+    "image": "squadron-card/galactic-empire/morna-kee.png"
+  }
+]
