@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Gladiator II-class Star Destroyer",
+    "size": "small",
+    "faction": "Galactic Empire",
+    "hull": 5,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 2, 0],
+    "command": 2,
+    "squadron": 2,
+    "engineering": 3,
+    "attack": {
+      "front": [2, 0, 2],
+      "right": [1, 0, 3],
+      "left": [1, 0, 3],
+      "rear": [1, 0, 1]
+    },
+    "shield": {
+      "front": 3,
+      "right": 2,
+      "left": 2,
+      "rear": 1
+    },
+    "defense-tokens": ["Evade", "Brace", "Redirect"],
+    "speed-chart": {
+      "1": ["||"],
+      "2": ["|", "|"],
+      "3": ["-", "|", "|"]
+    },
+    "slots": ["Officer", "Weapons Team", "Support Team", "Ordnance"],
+    "points": 62,
+    "ship-image": "ship/galactic-empire/gladiator-class-star-destroyer.png",
+    "image": "ship-card/galactic-empire/gladiator-ii-class-star-destroyer.png"
+  }
+]

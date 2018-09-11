@@ -15,6 +15,14 @@
     "image": "upgrade-card/ordnance/assault-proton-torpedoes.png"
   },
   {
+    "name": "Expanded Launchers",
+    "trait": "Modification",
+    "text": "The battery armament for your front hull zone is increased by 2 black dice.",
+    "slots": ["Ordnance"],
+    "points": 13,
+    "image": "upgrade-card/ordnance/expanded-launchers.png"
+  },
+  {
     "name": "Ordnance Pods",
     "restriction": "Medium or large ship only.",
     "text":

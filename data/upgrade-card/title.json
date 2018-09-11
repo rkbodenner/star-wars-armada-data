@@ -55,6 +55,17 @@
     "image": "upgrade-card/title/defiance.png"
   },
   {
+    "name": "Demolisher",
+    "unique": true,
+    "text":
+      "During your activation, you can perform 1 of your attacks after you execute your first maneuver.",
+    "slots": ["Title"],
+    "ship": "Gladiator-class Star Destroyer",
+    "faction": "Galactic Empire",
+    "points": 10,
+    "image": "upgrade-card/title/demolisher.png"
+  },
+  {
     "name": "Devastator",
     "unique": true,
     "text":
@@ -140,6 +151,17 @@
     "faction": "Rebel Alliance",
     "points": 8,
     "image": "upgrade-card/title/independence.png"
+  },
+  {
+    "name": "Insidious",
+    "unique": true,
+    "text":
+      "The black dice in your battery armament can be used at medium range. This effect applies only while attacking the rear hull zone of a ship.",
+    "slots": ["Title"],
+    "ship": "Gladiator-class Star Destroyer",
+    "faction": "Galactic Empire",
+    "points": 3,
+    "image": "upgrade-card/title/insidious.png"
   },
   {
     "name": "Interdictor",

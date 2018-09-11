@@ -10,6 +10,16 @@
     "image": "upgrade-card/officer/adar-tallon.png"
   },
   {
+    "name": "Admiral Chiraneau",
+    "unique": true,
+    "text":
+      "[Squadron]: Squadrons that you activate can move even if they are engaged. When an engaged squadron moves in this way, treat it as having a printed speed of \"2.\"",
+    "slots": ["Officer"],
+    "faction": "Galactic Empire",
+    "points": 10,
+    "image": "upgrade-card/officer/admiral-chiraneau.png"
+  },
+  {
     "name": "Admiral Titus",
     "unique": true,
     "text": "At the start of the first round, you may change 1 enemy ship's speed by 1.",

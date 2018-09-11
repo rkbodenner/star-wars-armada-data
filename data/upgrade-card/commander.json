@@ -30,6 +30,16 @@
     "image": "upgrade-card/commander/admiral-raddus.png"
   },
   {
+    "name": "Admiral Screed",
+    "unique": true,
+    "text":
+      "Once per activation, when a friendly ship is attacking, it may spend 1 die to change a die to a face with a [Critical Hit] icon.",
+    "faction": "Galactic Empire",
+    "slots": ["Commander"],
+    "points": 26,
+    "image": "upgrade-card/commander/admiral-screed.png"
+  },
+  {
     "name": "Darth Vader",
     "unique": true,
     "text":
