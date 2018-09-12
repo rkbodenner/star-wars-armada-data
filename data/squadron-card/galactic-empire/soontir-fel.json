@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Soontir Fel",
+    "subname": "TIE Interceptor Squadron",
+    "unique": true,
+    "faction": "Galactic Empire",
+    "speed": 5,
+    "hull": 3,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 4, 0],
+    "attack": [0, 1, 0],
+    "text":
+      "After a squadron you are engaged with performs a non-Counter attack, it suffers 1 damage if it did not attack you.",
+    "keywords": ["Counter 2", "Swarm"],
+    "defense-tokens": ["Brace", "Scatter"],
+    "points": 18,
+    "squadron-image": "squadron/galactic-empire/tie-interceptor-squadron.png",
+    "image": "squadron-card/galactic-empire/soontir-fel.png"
+  }
+]

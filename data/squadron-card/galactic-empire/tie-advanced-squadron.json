@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TIE Advanced Squadron",
+    "subname": "",
+    "faction": "Galactic Empire",
+    "speed": 4,
+    "hull": 5,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 3, 0],
+    "attack": [0, 0, 1],
+    "keywords": ["Escort"],
+    "points": 12,
+    "squadron-image": "squadron/galactic-empire/tie-advanced-squadron.png",
+    "image": "squadron-card/galactic-empire/tie-advanced-squadron.png"
+  }
+]

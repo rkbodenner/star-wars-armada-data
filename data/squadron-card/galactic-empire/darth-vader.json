@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Darth Vader",
+    "subname": "TIE Advanced Squadron",
+    "unique": true,
+    "faction": "Galactic Empire",
+    "speed": 4,
+    "hull": 5,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 3, 1],
+    "attack": [0, 0, 1],
+    "text": "While attacking, each of your [Critical Hit] icons adds 1 damage to the damage total.",
+    "keywords": ["Escort"],
+    "defense-tokens": ["Brace", "Brace"],
+    "points": 21,
+    "squadron-image": "squadron/galactic-empire/tie-advanced-squadron.png",
+    "image": "squadron-card/galactic-empire/darth-vader.png"
+  }
+]
