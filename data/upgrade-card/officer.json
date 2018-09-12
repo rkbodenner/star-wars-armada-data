@@ -97,6 +97,14 @@
     "image": "upgrade-card/officer/commandant-aresko.png"
   },
   {
+    "name": "Damage Control Officer",
+    "text":
+      "When you resolve the [Contain] defense effect, you can prevent the attacker from resolving any critical effects.",
+    "slots": ["Officer"],
+    "points": 5,
+    "image": "upgrade-card/officer/damage-control-officer.png"
+  },
+  {
     "name": "Defense Liaison",
     "text":
       "Before you reveal a command, you may spend 1 command token to change that command to a [Navigate] or [Repair] command.",
@@ -177,6 +185,16 @@
     "slots": ["Officer"],
     "points": 3,
     "image": "upgrade-card/officer/leia-organa.png"
+  },
+  {
+    "name": "Minister Tua",
+    "unique": true,
+    "text":
+      "You gain an additional [Defensive Retrofit] icon in your upgrade bar.\nYou cannot equip this card to a medium or large ship with a [Defensive Retrofit] icon in its upgrade bar.",
+    "faction": "Galactic Empire",
+    "slots": ["Officer"],
+    "points": 2,
+    "image": "upgrade-card/officer/minister-tua.png"
   },
   {
     "name": "Navigation Officer",

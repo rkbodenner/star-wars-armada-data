@@ -38,5 +38,14 @@
     "slots": ["Defensive Retrofit"],
     "points": 8,
     "image": "upgrade-card/defensive-retrofit/redundant-shields.png"
+  },
+  {
+    "name": "Reinforced Blast Doors",
+    "trait": "Modification",
+    "text":
+      "At the start of the Ship Phase, you may discard this card to discard up to 3 of your facedown damage cards.",
+    "slots": ["Defensive Retrofit"],
+    "points": 5,
+    "image": "upgrade-card/defensive-retrofit/reinforced-blast-doors.png"
   }
 ]

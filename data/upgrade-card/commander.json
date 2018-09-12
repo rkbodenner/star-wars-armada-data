@@ -138,5 +138,15 @@
     "slots": ["Commander"],
     "points": 38,
     "image": "upgrade-card/commander/grand-moff-tarkin.png"
+  },
+  {
+    "name": "Moff Jerjerrod",
+    "unique": true,
+    "text":
+      "During a friendly ship's Determine Course step, it may suffer 1 damage to change the first yaw value of its current speed to \"||\" until the end of its activation.",
+    "faction": "Galactic Empire",
+    "slots": ["Commander"],
+    "points": 23,
+    "image": "upgrade-card/commander/moff-jerjerrod.png"
   }
 ]

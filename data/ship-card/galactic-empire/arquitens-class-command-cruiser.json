@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Arquitens-class Command Cruiser",
+    "size": "small",
+    "faction": "Galactic Empire",
+    "hull": 5,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 1, 0],
+    "command": 2,
+    "squadron": 2,
+    "engineering": 3,
+    "attack": {
+      "front": [1, 1, 0],
+      "right": [3, 0, 0],
+      "left": [3, 0, 0],
+      "rear": [1, 1, 0]
+    },
+    "shield": {
+      "front": 2,
+      "right": 2,
+      "left": 2,
+      "rear": 2
+    },
+    "defense-tokens": ["Evade", "Redirect", "Redirect", "Contain"],
+    "speed-chart": {
+      "1": ["||"],
+      "2": ["-", "||"],
+      "3": ["-", "-", "||"]
+    },
+    "slots": ["Officer", "Support Team", "Defensive Retrofit", "Turbolasers"],
+    "points": 59,
+    "ship-image": "ship/galactic-empire/arquitens-class-cruiser.png",
+    "image": "ship-card/galactic-empire/arquitens-class-command-cruiser.png"
+  }
+]

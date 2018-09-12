@@ -44,6 +44,17 @@
     "image": "upgrade-card/title/bright-hope.png"
   },
   {
+    "name": "Centicore",
+    "unique": true,
+    "text":
+      "When another friendly ship resolves a [Squadron] command, up to 2 of the squadrons it activates can be at close-medium range of you.",
+    "slots": ["Title"],
+    "ship": "Arquitens-class Cruiser",
+    "faction": "Galactic Empire",
+    "points": 3,
+    "image": "upgrade-card/title/centicore.png"
+  },
+  {
     "name": "Chimaera",
     "unique": true,
     "text":
@@ -140,6 +151,17 @@
     "faction": "Rebel Alliance",
     "points": 8,
     "image": "upgrade-card/title/gallant-haven.png"
+  },
+  {
+    "name": "Hand of Justice",
+    "unique": true,
+    "text":
+      "Before you reveal a command, you may exhaust this card to choose another friendly ship at distance 1-5 and ready 1 of its defense tokens.",
+    "slots": ["Title"],
+    "ship": "Arquitens-class Cruiser",
+    "faction": "Galactic Empire",
+    "points": 4,
+    "image": "upgrade-card/title/hand-of-justice.png"
   },
   {
     "name": "Home One",
