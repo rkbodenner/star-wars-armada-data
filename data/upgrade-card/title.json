@@ -142,6 +142,17 @@
     "image": "upgrade-card/title/home-one.png"
   },
   {
+    "name": "Impetuous",
+    "unique": true,
+    "text":
+      "At the end of your Attack Step, choose 1 of your hull zones. You may perform an attack against 1 enemy squadron from that hull zone, even if you have already attacked from that zone this round.",
+    "slots": ["Title"],
+    "ship": "Raider-class Corvette",
+    "faction": "Galactic Empire",
+    "points": 4,
+    "image": "upgrade-card/title/impetuous.png"
+  },
+  {
     "name": "Independence",
     "unique": true,
     "text":
@@ -162,6 +173,17 @@
     "faction": "Galactic Empire",
     "points": 3,
     "image": "upgrade-card/title/insidious.png"
+  },
+  {
+    "name": "Instigator",
+    "unique": true,
+    "text":
+      "Enemy squadrons at distance 1 are treated as if they are engaged by 2 additional squadrons, even if they are not currently engaged.",
+    "slots": ["Title"],
+    "ship": "Raider-class Corvette",
+    "faction": "Galactic Empire",
+    "points": 4,
+    "image": "upgrade-card/title/instigator.png"
   },
   {
     "name": "Interdictor",

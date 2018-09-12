@@ -20,6 +20,16 @@
     "image": "upgrade-card/commander/admiral-konstantine.png"
   },
   {
+    "name": "Admiral Ozzel",
+    "unique": true,
+    "text":
+      "When a friendly ship resolves a [Navigate] command, it may change its speed by an additional 1.",
+    "faction": "Galactic Empire",
+    "slots": ["Commander"],
+    "points": 20,
+    "image": "upgrade-card/commander/admiral-ozzel.png"
+  },
+  {
     "name": "Admiral Raddus",
     "unique": true,
     "text":

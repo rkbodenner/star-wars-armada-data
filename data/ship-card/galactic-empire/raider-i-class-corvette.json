@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Raider I-class Corvette",
+    "size": "small",
+    "faction": "Galactic Empire",
+    "hull": 4,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 0, 2],
+    "command": 1,
+    "squadron": 1,
+    "engineering": 2,
+    "attack": {
+      "front": [0, 2, 2],
+      "right": [0, 1, 1],
+      "left": [0, 1, 1],
+      "rear": [0, 1, 0]
+    },
+    "shield": {
+      "front": 2,
+      "right": 2,
+      "left": 2,
+      "rear": 2
+    },
+    "defense-tokens": ["Evade", "Evade", "Brace"],
+    "speed-chart": {
+      "1": ["||"],
+      "2": ["||", "||"],
+      "3": ["-", "|", "|"],
+      "4": ["-", "|", "|", "|"]
+    },
+    "slots": ["Officer", "Weapons Team", "Offensive Retrofit", "Ordnance"],
+    "points": 44,
+    "ship-image": "ship/galactic-empire/raider-class-corvette.png",
+    "image": "ship-card/galactic-empire/raider-i-class-corvette.png"
+  }
+]

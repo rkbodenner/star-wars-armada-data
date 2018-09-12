@@ -20,6 +20,16 @@
     "image": "upgrade-card/officer/admiral-chiraneau.png"
   },
   {
+    "name": "Admiral Montferrat",
+    "unique": true,
+    "text":
+      "While defending against a ship, if your speed is 3 or higher, the attack is treated as obstructed.\nAfter you execute a maneuver, if you overlapped a ship, discard this card.",
+    "slots": ["Officer"],
+    "faction": "Galactic Empire",
+    "points": 5,
+    "image": "upgrade-card/officer/admiral-montferrat.png"
+  },
+  {
     "name": "Admiral Titus",
     "unique": true,
     "text": "At the start of the first round, you may change 1 enemy ship's speed by 1.",
