@@ -50,6 +50,16 @@
     "image": "upgrade-card/commander/admiral-screed.png"
   },
   {
+    "name": "Commander Sato",
+    "unique": true,
+    "text":
+      "While a friendly ship is attacking a ship at distance 1 of a friendly squadron, before rolling attack dice, the attacker may replace up to 2 dice in its attack pool with an equal number of dice of any color or colors.",
+    "faction": "Rebel Alliance",
+    "slots": ["Commander"],
+    "points": 32,
+    "image": "upgrade-card/commander/commander-sato.png"
+  },
+  {
     "name": "Darth Vader",
     "unique": true,
     "text":

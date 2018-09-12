@@ -273,6 +273,17 @@
     "image": "upgrade-card/title/paragon.png"
   },
   {
+    "name": "Phoenix Home",
+    "unique": true,
+    "text":
+      "You gain 1 additional [Officer] icon in your upgrade bar.\nYou can be assigned up to 4 command tokens instead of a number of command tokens equal to your command value.",
+    "slots": ["Title"],
+    "ship": "Pelta-class Ship",
+    "faction": "Rebel Alliance",
+    "points": 3,
+    "image": "upgrade-card/title/phoenix-home.png"
+  },
+  {
     "name": "Profundity",
     "unique": true,
     "text":

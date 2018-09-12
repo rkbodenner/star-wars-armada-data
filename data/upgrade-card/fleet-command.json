@@ -1,5 +1,13 @@
 [
   {
+    "name": "All Fighters, Follow Me!",
+    "text":
+      "At the start of the Ship Phase, you may discard this card or spend a [Squadron] token. If you do, until the end of the round, the speed of each squadron that a friendly ship activates is increased by 1, to a maximum of 5, until the end of that squadron's activation.",
+    "slots": ["Fleet Command"],
+    "points": 5,
+    "image": "upgrade-card/fleet-command/all-fighters-follow-me.png"
+  },
+  {
     "name": "Entrapment Formation!",
     "text":
       "At the start of the Ship Phase, you may discard this card or spend a [Navigate] token. If you do, until the end of the round, each friendly ship may change its speed by 1 during its Determine Course step.",

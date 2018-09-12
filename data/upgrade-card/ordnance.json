@@ -23,6 +23,14 @@
     "image": "upgrade-card/ordnance/expanded-launchers.png"
   },
   {
+    "name": "Flechette Torpedoes",
+    "text":
+      "While attacking a squadron, you may spend 1 black die with a [Critical Hit] icon to toggle its activation slider to the activated side.",
+    "slots": ["Ordnance"],
+    "points": 3,
+    "image": "upgrade-card/ordnance/flechette-torpedoes.png"
+  },
+  {
     "name": "Ordnance Pods",
     "restriction": "Medium or large ship only.",
     "text":

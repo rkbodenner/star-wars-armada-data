@@ -45,5 +45,13 @@
     "slots": ["Offensive Retrofit"],
     "points": 5,
     "image": "upgrade-card/offensive-retrofit/quad-laser-turrets.png"
+  },
+  {
+    "name": "Rapid Launch Bays",
+    "text":
+      "Before deploying fleets, you may set aside a number of friendly squadrons up to your squadron value next to your ship card.\n[Squadron]: For each squadron you would activate with this command, you may instead place 1 of your set-aside squadrons within distance 1. It cannot move this activation.",
+    "slots": ["Offensive Retrofit"],
+    "points": 6,
+    "image": "upgrade-card/offensive-retrofit/rapid-launch-bays.png"
   }
 ]

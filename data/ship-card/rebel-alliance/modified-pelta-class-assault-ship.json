@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Modified Pelta-class Assault Ship",
+    "size": "small",
+    "faction": "Rebel Alliance",
+    "hull": 5,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 1, 1],
+    "command": 2,
+    "squadron": 1,
+    "engineering": 4,
+    "attack": {
+      "front": [2, 0, 2],
+      "right": [1, 0, 1],
+      "left": [1, 0, 1],
+      "rear": [2, 0, 0]
+    },
+    "shield": {
+      "front": 3,
+      "right": 2,
+      "left": 2,
+      "rear": 1
+    },
+    "defense-tokens": ["Evade", "Brace", "Redirect"],
+    "speed-chart": {
+      "1": ["||"],
+      "2": ["|", "|"]
+    },
+    "slots": ["Officer", "Support Team", "Fleet Command", "Ordnance"],
+    "points": 56,
+    "ship-image": "ship/rebel-alliance/pelta-class-ship.png",
+    "image": "ship-card/rebel-alliance/modified-pelta-class-assault-ship.png"
+  }
+]

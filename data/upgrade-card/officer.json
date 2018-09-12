@@ -48,6 +48,16 @@
     "image": "upgrade-card/officer/agent-kallus.png"
   },
   {
+    "name": "Ahsoka Tano",
+    "unique": true,
+    "text":
+      "During the activation of a friendly ship at distance 1-5, you may exhaust this card to discard 1 command token from that ship. If you do, that ship may gain 1 command token of any type.",
+    "faction": "Rebel Alliance",
+    "slots": ["Officer"],
+    "points": 2,
+    "image": "upgrade-card/officer/ahsoka-tano.png"
+  },
+  {
     "name": "Bail Organa",
     "unique": true,
     "restriction": "Medium or large ship only.",
@@ -185,6 +195,16 @@
     "slots": ["Officer"],
     "points": 3,
     "image": "upgrade-card/officer/leia-organa.png"
+  },
+  {
+    "name": "Major Derlin",
+    "unique": true,
+    "text":
+      "Before you suffer damage from an attack, you may exhaust this card to reduce the total damage by 1.",
+    "faction": "Rebel Alliance",
+    "slots": ["Officer"],
+    "points": 7,
+    "image": "upgrade-card/officer/major-derlin.png"
   },
   {
     "name": "Minister Tua",
