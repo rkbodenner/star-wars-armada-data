@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Hammerhead Torpedo Corvette",
+    "size": "small",
+    "faction": "Rebel Alliance",
+    "hull": 5,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 0, 1],
+    "command": 1,
+    "squadron": 1,
+    "engineering": 2,
+    "attack": {
+      "front": [1, 1, 1],
+      "right": [0, 0, 1],
+      "left": [0, 0, 1],
+      "rear": [0, 0, 0]
+    },
+    "shield": {
+      "front": 2,
+      "right": 1,
+      "left": 1,
+      "rear": 1
+    },
+    "defense-tokens": ["Evade", "Redirect", "Contain"],
+    "speed-chart": {
+      "1": ["||"],
+      "2": ["||", "|"],
+      "3": ["|", "|", "-"]
+    },
+    "slots": ["Officer", "Offensive Retrofit", "Weapons Team", "Ordnance"],
+    "points": 36,
+    "ship-image": "ship/rebel-alliance/hammerhead-corvette.png",
+    "image": "ship-card/rebel-alliance/hammerhead-torpedo-corvette.png"
+  }
+]

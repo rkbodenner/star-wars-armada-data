@@ -159,6 +159,15 @@
     "image": "upgrade-card/officer/governor-pryce.png"
   },
   {
+    "name": "Hondo Ohnaka",
+    "unique": true,
+    "text":
+      "At the start of the ship phase, you may discard this card to choose 2 different command tokens and place them on 2 different ships. Then your opponent chooses 2 different command tokens you did not choose and places them on 2 different ships.",
+    "slots": ["Officer"],
+    "points": 2,
+    "image": "upgrade-card/officer/hondo-ohnaka.png"
+  },
+  {
     "name": "Instructor Goran",
     "unique": true,
     "text":

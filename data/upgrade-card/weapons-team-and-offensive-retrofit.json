@@ -1,11 +1,29 @@
 [
   {
+    "name": "Boarding Engineers",
+    "text":
+      "When you reveal a command, you may discard a [Squadron] dial or token and this card to choose 1 enemy ship at close range. Look at its facedown damage cards and flip a number of them faceup up to your engineering value (one at a time).",
+    "slots": ["Weapons Team", "Offensive Retrofit"],
+    "points": 2,
+    "image": "upgrade-card/weapons-team-and-offensive-retrofit/boarding-engineers.png"
+  },
+  {
     "name": "Boarding Troopers",
     "text":
       "When you reveal a command, you may discard a [Squadron] dial or token and this card to choose 1 enemy ship at close range. Choose and spend a number of its defense tokens up to your squadron value.",
     "slots": ["Weapons Team", "Offensive Retrofit"],
     "points": 3,
     "image": "upgrade-card/weapons-team-and-offensive-retrofit/boarding-troopers.png"
+  },
+  {
+    "name": "Cham Syndulla",
+    "unique": true,
+    "text":
+      "When you reveal a command, you may discard a [Squadron] dial or token and this card to choose 1 enemy ship at close range. If you do you may choose a new command for each command dial assigned to that ship.",
+    "faction": "Rebel Alliance",
+    "slots": ["Weapons Team", "Offensive Retrofit"],
+    "points": 5,
+    "image": "upgrade-card/weapons-team-and-offensive-retrofit/cham-syndulla.png"
   },
   {
     "name": "Darth Vader",

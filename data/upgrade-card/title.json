@@ -153,6 +153,17 @@
     "image": "upgrade-card/title/gallant-haven.png"
   },
   {
+    "name": "Garel's Honor",
+    "unique": true,
+    "text":
+      "When you overlap an enemy ship, the enemy ship suffers a faceup damage card instead of a facedown damage card.",
+    "slots": ["Title"],
+    "ship": "Hammerhead Corvette",
+    "faction": "Rebel Alliance",
+    "points": 4,
+    "image": "upgrade-card/title/garels-honor.png"
+  },
+  {
     "name": "Hand of Justice",
     "unique": true,
     "text":
@@ -402,6 +413,26 @@
     "faction": "Galactic Empire",
     "points": 4,
     "image": "upgrade-card/title/suppressor.png"
+  },
+  {
+    "name": "Task Force Antilles",
+    "text":
+      "When you suffer damage from an attack, you may choose and exhaust a copy of this card on another friendly ship at distance 1-3. If you do, that ship suffers 1 of your damage instead. While this card is exhausted, you cannot spend engineering points.",
+    "slots": ["Title"],
+    "ship": "Hammerhead Corvette",
+    "faction": "Rebel Alliance",
+    "points": 3,
+    "image": "upgrade-card/title/task-force-antilles.png"
+  },
+  {
+    "name": "Task Force Organa",
+    "text":
+      "While attacking, you may choose and exhaust a copy of this card on another friendly ship at distance 1-3 to reroll up to 2 attack dice. While this card is exhausted, you cannot attack ships.",
+    "slots": ["Title"],
+    "ship": "Hammerhead Corvette",
+    "faction": "Rebel Alliance",
+    "points": 1,
+    "image": "upgrade-card/title/task-force-organa.png"
   },
   {
     "name": "Vector",
