@@ -33,6 +33,17 @@
     "image": "upgrade-card/title/avenger.png"
   },
   {
+    "name": "Bright Hope",
+    "unique": true,
+    "text":
+      "While defending against an attack that does not target your rear hull zone, before you suffer damage reduce the total damage by 1.",
+    "slots": ["Title"],
+    "ship": "GR-75 Transports",
+    "faction": "Rebel Alliance",
+    "points": 2,
+    "image": "upgrade-card/title/bright-hope.png"
+  },
+  {
     "name": "Chimaera",
     "unique": true,
     "text":
@@ -249,6 +260,17 @@
     "faction": "Rebel Alliance",
     "points": 7,
     "image": "upgrade-card/title/profundity.png"
+  },
+  {
+    "name": "Quantum Storm",
+    "unique": true,
+    "text":
+      "[Navigate]: After you execute a maneuver, you may exhaust this card to execute a 1-speed maneuver with a yaw of \"-\".",
+    "slots": ["Title"],
+    "ship": "GR-75 Transports",
+    "faction": "Rebel Alliance",
+    "points": 1,
+    "image": "upgrade-card/title/quantum-storm.png"
   },
   {
     "name": "Redemption",

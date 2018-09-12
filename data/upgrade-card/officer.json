@@ -230,6 +230,16 @@
     "image": "upgrade-card/officer/taskmaster-grint.png"
   },
   {
+    "name": "Toryn Farr",
+    "unique": true,
+    "text":
+      "While another friendly ship or squadron at distance 1-3 is attacking, it may reroll 1 blue die.",
+    "slots": ["Officer"],
+    "faction": "Rebel Alliance",
+    "points": 7,
+    "image": "upgrade-card/officer/toryn-farr.png"
+  },
+  {
     "name": "Veteran Captain",
     "text":
       "When you reveal a command, you may discard this card to gain 1 command token of your choice.",

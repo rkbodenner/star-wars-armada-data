@@ -70,6 +70,16 @@
     "image": "upgrade-card/commander/garm-bel-iblis.png"
   },
   {
+    "name": "General Cracken",
+    "unique": true,
+    "text":
+      "While a friendly small or medium ship is defending against a ship, if the defender is at speed 3 or higher, the attack is treated as obstructed.",
+    "faction": "Rebel Alliance",
+    "slots": ["Commander"],
+    "points": 26,
+    "image": "upgrade-card/commander/general-cracken.png"
+  },
+  {
     "name": "General Dodonna",
     "unique": true,
     "text":

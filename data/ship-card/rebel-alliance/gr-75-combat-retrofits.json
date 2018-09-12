@@ -1,0 +1,35 @@
+[
+  {
+    "name": "GR-75 Combat Retrofits",
+    "size": "small",
+    "faction": "Rebel Alliance",
+    "hull": 3,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 1, 0],
+    "command": 1,
+    "squadron": 2,
+    "engineering": 2,
+    "attack": {
+      "front": [0, 1, 0],
+      "right": [0, 0, 0],
+      "left": [0, 0, 0],
+      "rear": [0, 1, 0]
+    },
+    "shield": {
+      "front": 1,
+      "right": 1,
+      "left": 1,
+      "rear": 1
+    },
+    "defense-tokens": ["Scatter", "Evade"],
+    "speed-chart": {
+      "1": ["||"],
+      "2": ["|", "||"],
+      "3": ["-", "|", "||"]
+    },
+    "slots": ["Officer", "Fleet Support", "Offensive Retrofit"],
+    "points": 24,
+    "ship-image": "ship/rebel-alliance/gr-75-transports.png",
+    "image": "ship-card/rebel-alliance/gr-75-combat-retrofits.png"
+  }
+]
