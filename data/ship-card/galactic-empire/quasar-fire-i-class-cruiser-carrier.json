@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Quasar Fire I-class Cruiser-Carrier",
+    "size": "medium",
+    "faction": "Galactic Empire",
+    "hull": 6,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 1, 0],
+    "command": 2,
+    "squadron": 4,
+    "engineering": 2,
+    "attack": {
+      "front": [0, 3, 0],
+      "right": [0, 2, 0],
+      "left": [0, 2, 0],
+      "rear": [0, 1, 0]
+    },
+    "shield": {
+      "front": 2,
+      "right": 2,
+      "left": 2,
+      "rear": 1
+    },
+    "defense-tokens": ["Brace", "Redirect"],
+    "speed-chart": {
+      "1": ["||"],
+      "2": ["|", "|"],
+      "3": ["-", "|", "|"]
+    },
+    "slots": ["Officer", "Weapons Team", "Offensive Retrofit", "Offensive Retrofit"],
+    "points": 54,
+    "ship-image": "ship/galactic-empire/quasar-fire-class-cruiser-carrier.png",
+    "image": "ship-card/galactic-empire/quasar-fire-i-class-cruiser-carrier.png"
+  }
+]

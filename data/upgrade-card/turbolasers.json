@@ -33,6 +33,15 @@
     "image": "upgrade-card/turbolasers/heavy-turbolaser-turrets.png"
   },
   {
+    "name": "Quad Battery Turrets",
+    "trait": "Modification",
+    "text":
+      "While attacking a ship with a higher speed than yours, you may add 1 blue die to your attack pool.",
+    "slots": ["Turbolasers"],
+    "points": 5,
+    "image": "upgrade-card/turbolasers/quad-battery-turrets.png"
+  },
+  {
     "name": "Quad Turbolaser Cannons",
     "text":
       "While attacking, if at least 1 red die face has an [Accuracy] icon, add 1 red die set to the [Accuracy] icon to your attack pool.",

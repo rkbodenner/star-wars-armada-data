@@ -8,6 +8,15 @@
     "image": "upgrade-card/offensive-retrofit/boosted-comms.png"
   },
   {
+    "name": "Disposable Capacitors",
+    "restriction": "Small or medium ship only.",
+    "text":
+      "When you activate, you may discard this card. If you do, the blue dice in your battery armament can be used while attacking ships at close-long range until the end of the round.",
+    "slots": ["Offensive Retrofit"],
+    "points": 3,
+    "image": "upgrade-card/offensive-retrofit/disposable-capacitors.png"
+  },
+  {
     "name": "Expanded Hangar Bay",
     "text": "Your squadron value is increased by 1.",
     "slots": ["Offensive Retrofit"],

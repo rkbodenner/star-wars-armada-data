@@ -268,6 +268,16 @@
     "image": "upgrade-card/officer/taskmaster-grint.png"
   },
   {
+    "name": "The Grand Inquisitor",
+    "unique": true,
+    "text":
+      "When an enemy ship at distance 1-5 changes its speed, you may exhaust this card to increase or decrease your speed by 1.",
+    "slots": ["Officer"],
+    "faction": "Galactic Empire",
+    "points": 4,
+    "image": "upgrade-card/officer/the-grand-inquisitor.png"
+  },
+  {
     "name": "Toryn Farr",
     "unique": true,
     "text":

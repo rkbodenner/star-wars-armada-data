@@ -295,6 +295,17 @@
     "image": "upgrade-card/title/profundity.png"
   },
   {
+    "name": "Pursuant",
+    "unique": true,
+    "text":
+      "When you reveal a command other than a [Squadron] command, you may discard this card to resolve a [Squadron]. You treat this command as if you spent a [Squadron] dial.",
+    "slots": ["Title"],
+    "ship": "Quasar Fire-class Cruiser-Carrier",
+    "faction": "Galactic Empire",
+    "points": 2,
+    "image": "upgrade-card/title/pursuant.png"
+  },
+  {
     "name": "Quantum Storm",
     "unique": true,
     "text":
@@ -358,6 +369,28 @@
     "faction": "Galactic Empire",
     "points": 4,
     "image": "upgrade-card/title/sovereign.png"
+  },
+  {
+    "name": "Squall",
+    "unique": true,
+    "text":
+      "When you activate, you may choose up to 3 unengaged friendly squadrons at close-medium range. Those squadrons may move up to distance 2. If they do, they cannot end their movement engaged.",
+    "slots": ["Title"],
+    "ship": "Quasar Fire-class Cruiser-Carrier",
+    "faction": "Galactic Empire",
+    "points": 3,
+    "image": "upgrade-card/title/squall.png"
+  },
+  {
+    "name": "Stronghold",
+    "unique": true,
+    "text":
+      "While a friendly squadron with Swarm at distance 1-2 is defending, the attack is treated as obstructed.",
+    "slots": ["Title"],
+    "ship": "Quasar Fire-class Cruiser-Carrier",
+    "faction": "Galactic Empire",
+    "points": 5,
+    "image": "upgrade-card/title/stronghold.png"
   },
   {
     "name": "Suppressor",
