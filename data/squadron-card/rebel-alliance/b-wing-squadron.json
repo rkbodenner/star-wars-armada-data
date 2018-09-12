@@ -1,0 +1,16 @@
+[
+  {
+    "name": "B-wing Squadron",
+    "subname": "",
+    "faction": "Rebel Alliance",
+    "speed": 2,
+    "hull": 5,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 3, 0],
+    "attack": [0, 1, 1],
+    "keywords": ["Bomber"],
+    "points": 14,
+    "squadron-image": "squadron/rebel-alliance/b-wing-squadron.png",
+    "image": "squadron-card/rebel-alliance/b-wing-squadron.png"
+  }
+]

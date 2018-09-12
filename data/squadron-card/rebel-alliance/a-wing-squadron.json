@@ -1,0 +1,16 @@
+[
+  {
+    "name": "A-wing Squadron",
+    "subname": "",
+    "faction": "Rebel Alliance",
+    "speed": 5,
+    "hull": 4,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 3, 0],
+    "attack": [0, 0, 1],
+    "keywords": ["Counter 2"],
+    "points": 11,
+    "squadron-image": "squadron/rebel-alliance/a-wing-squadron.png",
+    "image": "squadron-card/rebel-alliance/a-wing-squadron.png"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Y-wing Squadron",
+    "subname": "",
+    "faction": "Rebel Alliance",
+    "speed": 3,
+    "hull": 6,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 2, 0],
+    "attack": [0, 0, 1],
+    "keywords": ["Bomber", "Heavy"],
+    "points": 10,
+    "squadron-image": "squadron/rebel-alliance/y-wing-squadron.png",
+    "image": "squadron-card/rebel-alliance/y-wing-squadron.png"
+  }
+]

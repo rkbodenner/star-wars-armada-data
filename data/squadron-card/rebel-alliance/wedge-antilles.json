@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Wedge Antilles",
+    "subname": "X-wing Squadron",
+    "unique": true,
+    "faction": "Rebel Alliance",
+    "speed": 3,
+    "hull": 5,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 4, 0],
+    "attack": [0, 0, 1],
+    "text": "While attacking an activated squadron, you may add 2 blue dice to your attack pool.",
+    "keywords": ["Bomber", "Escort"],
+    "defense-tokens": ["Brace", "Brace"],
+    "points": 19,
+    "squadron-image": "squadron/rebel-alliance/x-wing-squadron.png",
+    "image": "squadron-card/rebel-alliance/wedge-antilles.png"
+  }
+]

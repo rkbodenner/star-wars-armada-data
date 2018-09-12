@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Tycho Celchu",
+    "subname": "A-wing Squadron",
+    "unique": true,
+    "faction": "Rebel Alliance",
+    "speed": 5,
+    "hull": 4,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 3, 0],
+    "attack": [0, 0, 1],
+    "text": "You are not prevented from moving or attacking ships while you are engaged.",
+    "keywords": ["Counter 2"],
+    "defense-tokens": ["Brace", "Scatter"],
+    "points": 16,
+    "squadron-image": "squadron/rebel-alliance/a-wing-squadron.png",
+    "image": "squadron-card/rebel-alliance/tycho-celchu.png"
+  }
+]
