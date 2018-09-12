@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Z-95 Headhunter Squadron",
+    "subname": "",
+    "faction": "Rebel Alliance",
+    "speed": 3,
+    "hull": 3,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [3, 0, 0],
+    "attack": [1, 0, 0],
+    "keywords": ["Swarm"],
+    "points": 7,
+    "squadron-image": "squadron/rebel-alliance/z-95-headhunter-squadron.png",
+    "image": "squadron-card/rebel-alliance/z-95-headhunter-squadron.png"
+  }
+]

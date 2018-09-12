@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Lieutenant Blount",
+    "subname": "Z-95 Headhunter Squadron",
+    "unique": true,
+    "faction": "Rebel Alliance",
+    "speed": 3,
+    "hull": 3,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [3, 0, 0],
+    "attack": [1, 0, 0],
+    "text":
+      "While another friendly squadron with Swarm at distance 1 is attacking a squadron, it may reroll 1 die (in addition to any dice rerolled from Swarm).",
+    "keywords": ["Swarm"],
+    "defense-tokens": ["Brace", "Scatter"],
+    "points": 14,
+    "squadron-image": "squadron/rebel-alliance/z-95-headhunter-squadron.png",
+    "image": "squadron-card/rebel-alliance/lieutenant-blount.png"
+  }
+]

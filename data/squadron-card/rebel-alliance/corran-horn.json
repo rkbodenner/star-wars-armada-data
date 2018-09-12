@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Corran Horn",
+    "subname": "E-wing Squadron",
+    "unique": true,
+    "faction": "Rebel Alliance",
+    "speed": 4,
+    "hull": 5,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 4, 0],
+    "attack": [1, 0, 0],
+    "keywords": ["Bomber", "Rogue", "Snipe 4"],
+    "defense-tokens": ["Brace", "Brace"],
+    "points": 22,
+    "squadron-image": "squadron/rebel-alliance/e-wing-squadron.png",
+    "image": "squadron-card/rebel-alliance/corran-horn.png"
+  }
+]

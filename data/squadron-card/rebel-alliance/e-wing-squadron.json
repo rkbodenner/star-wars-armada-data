@@ -1,0 +1,16 @@
+[
+  {
+    "name": "E-wing Squadron",
+    "subname": "",
+    "faction": "Rebel Alliance",
+    "speed": 4,
+    "hull": 5,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 4, 0],
+    "attack": [1, 0, 0],
+    "keywords": ["Bomber", "Snipe 3"],
+    "points": 15,
+    "squadron-image": "squadron/rebel-alliance/e-wing-squadron.png",
+    "image": "squadron-card/rebel-alliance/e-wing-squadron.png"
+  }
+]

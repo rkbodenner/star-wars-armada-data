@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lancer-class Pursuit Craft",
+    "subname": "",
+    "faction": "Rebel Alliance",
+    "speed": 4,
+    "hull": 4,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 3, 0],
+    "attack": [0, 0, 1],
+    "keywords": ["Bomber", "Grit", "Rogue"],
+    "points": 15,
+    "squadron-image": "squadron/rebel-alliance/lancer-class-pursuit-craft.png",
+    "image": "squadron-card/rebel-alliance/lancer-class-pursuit-craft.png"
+  }
+]

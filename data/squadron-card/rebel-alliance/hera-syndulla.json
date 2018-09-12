@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Hera Syndulla",
+    "subname": "Ghost",
+    "unique": true,
+    "faction": "Rebel Alliance",
+    "speed": 3,
+    "hull": 8,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 2, 2],
+    "attack": [0, 1, 1],
+    "text":
+      "At the start of the Squadron Phase, choose up to 2 friendly squadrons at distance 1-2. Those squadrons gain Rogue until the end oft the round.",
+    "keywords": ["Grit", "Rogue"],
+    "defense-tokens": ["Brace"],
+    "points": 28,
+    "squadron-image": "squadron/rebel-alliance/vcx-100-freighter.png",
+    "image": "squadron-card/rebel-alliance/hera-syndulla.png"
+  }
+]
