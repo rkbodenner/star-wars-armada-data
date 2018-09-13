@@ -8,6 +8,14 @@
     "image": "upgrade-card/ion-cannons/heavy-ion-emplacements.png"
   },
   {
+    "name": "Ion Cannon Batteries",
+    "text":
+      "Blue [Critical Hit]: Choose and discard 1 command token from the defender. If the defender does not have any command tokens, the defending hull zone loses 1 shield instead.",
+    "slots": ["Ion Cannons"],
+    "points": 5,
+    "image": "upgrade-card/ion-cannons/ion-cannon-batteries.png"
+  },
+  {
     "name": "High-Capacity Ion Turbines",
     "trait": "Modification",
     "text": "The battery armaments for your left and right hull zones are increased by 1 blue die.",

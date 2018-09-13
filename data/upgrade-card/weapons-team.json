@@ -16,6 +16,14 @@
     "image": "upgrade-card/weapons-team/fire-control-team.png"
   },
   {
+    "name": "Flight Controllers",
+    "text":
+      "[Squadron]: The anti-squadron armament of each squadron that you activate is increased by 1 blue die until the end of its activation.",
+    "slots": ["Weapons Team"],
+    "points": 6,
+    "image": "upgrade-card/weapons-team/flight-controllers.png"
+  },
+  {
     "name": "Gunnery Team",
     "text":
       "You can attack from the same hull zone more than once per activation. That hull zone cannot target the same ship or squadron more than once during that activation.",

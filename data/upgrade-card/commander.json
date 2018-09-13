@@ -20,6 +20,16 @@
     "image": "upgrade-card/commander/admiral-konstantine.png"
   },
   {
+    "name": "Admiral Motti",
+    "unique": true,
+    "text":
+      "The hull value of each friendly ship is increased according to its size class:\nSmall ship: 1\nMedium ship: 2\nLarge ship: 3",
+    "faction": "Galactic Empire",
+    "slots": ["Commander"],
+    "points": 24,
+    "image": "upgrade-card/commander/admiral-motti.png"
+  },
+  {
     "name": "Admiral Ozzel",
     "unique": true,
     "text":

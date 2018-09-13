@@ -123,6 +123,16 @@
     "image": "upgrade-card/officer/defense-liaison.png"
   },
   {
+    "name": "Director Isard",
+    "unique": true,
+    "text":
+      "When you reveal a command, you may look at all command dials assigned to 1 enemy ship.",
+    "slots": ["Officer"],
+    "faction": "Galactic Empire",
+    "points": 3,
+    "image": "upgrade-card/officer/director-isard.png"
+  },
+  {
     "name": "Engineering Captain",
     "text": "Before you reveal a command, you may change that command to a [Repair] command.",
     "slots": ["Officer"],
