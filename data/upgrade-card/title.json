@@ -252,6 +252,17 @@
     "image": "upgrade-card/title/interdictor.png"
   },
   {
+    "name": "Jaina's Light",
+    "unique": true,
+    "text":
+      "You can ignore the effects of overlapping obstacles.\nYour attacks cannot be obstructed.",
+    "slots": ["Title"],
+    "ship": "CR90 Corvette",
+    "faction": "Rebel Alliance",
+    "points": 2,
+    "image": "upgrade-card/title/jainas-light.png"
+  },
+  {
     "name": "Liberty",
     "unique": true,
     "text": "[Squadron]: If you spent a [Squadron] token, you may activate 1 additional squadron.",
@@ -424,6 +435,17 @@
     "faction": "Galactic Empire",
     "points": 4,
     "image": "upgrade-card/title/suppressor.png"
+  },
+  {
+    "name": "Tantive IV",
+    "unique": true,
+    "text":
+      "Before you gain a command token, 1 friendly ship at distance 1-5 may gain that token instead.",
+    "slots": ["Title"],
+    "ship": "CR90 Corvette",
+    "faction": "Rebel Alliance",
+    "points": 3,
+    "image": "upgrade-card/title/tantive-iv.png"
   },
   {
     "name": "Task Force Antilles",

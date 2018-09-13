@@ -243,6 +243,16 @@
     "image": "upgrade-card/officer/navigation-officer.png"
   },
   {
+    "name": "Raymus Antilles",
+    "unique": true,
+    "text":
+      "When you reveal a command, you may gain 1 matching command token without spending the command dial.",
+    "faction": "Rebel Alliance",
+    "slots": ["Officer"],
+    "points": 7,
+    "image": "upgrade-card/officer/raymus-antilles.png"
+  },
+  {
     "name": "Skilled First Officer",
     "text":
       "Before you reveal a command, you may discard this card to discard your top command dial.",

@@ -188,5 +188,15 @@
     "slots": ["Commander"],
     "points": 23,
     "image": "upgrade-card/commander/moff-jerjerrod.png"
+  },
+  {
+    "name": "Mon Mothma",
+    "unique": true,
+    "text":
+      "When a friendly ship resolves the [Evade] token effect, it can cancel 1 die at medium range or reroll 1 die at close range or distance 1.",
+    "faction": "Rebel Alliance",
+    "slots": ["Commander"],
+    "points": 30,
+    "image": "upgrade-card/commander/mon-mothma.png"
   }
 ]
