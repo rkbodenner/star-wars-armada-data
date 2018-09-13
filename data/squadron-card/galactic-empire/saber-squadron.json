@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Saber Squadron",
+    "subname": "TIE Interceptor Squadron",
+    "unique": true,
+    "faction": "Galactic Empire",
+    "speed": 5,
+    "hull": 3,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 4, 0],
+    "attack": [0, 1, 0],
+    "keywords": ["Snipe 4", "Swarm"],
+    "points": 12,
+    "squadron-image": "squadron/galactic-empire/tie-interceptor-squadron.png",
+    "image": "squadron-card/galactic-empire/saber-squadron.png"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Biggs Darklighter",
+    "subname": "X-wing Squadron",
+    "unique": true,
+    "faction": "Rebel Alliance",
+    "speed": 3,
+    "hull": 5,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 4, 0],
+    "attack": [1, 0, 0],
+    "text":
+      "Before a friendly squadron with Escort at distance 1 suffers damage during an attack, you may reduce the total damage by 1. If you do, choose a friendly squadron with Escort at distance 1. That squadron suffers 1 damage.",
+    "keywords": ["Bomber", "Escort"],
+    "defense-tokens": ["Brace", "Brace"],
+    "points": 19,
+    "squadron-image": "squadron/rebel-alliance/x-wing-squadron.png",
+    "image": "squadron-card/rebel-alliance/biggs-darklighter.png"
+  }
+]

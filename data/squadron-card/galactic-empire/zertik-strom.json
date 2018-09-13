@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Zertik Strom",
+    "subname": "TIE Advanced Squadron",
+    "unique": true,
+    "faction": "Galactic Empire",
+    "speed": 4,
+    "hull": 5,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [3, 0, 0],
+    "attack": [0, 0, 1],
+    "text":
+      "While attacking, you may choose another friendly squadron at distance 1. If you do, that squadron suffers 1 damage and you may reroll any number of attack dice.",
+    "keywords": ["Escort"],
+    "defense-tokens": ["Brace", "Brace"],
+    "points": 15,
+    "squadron-image": "squadron/galactic-empire/tie-advanced-squadron.png",
+    "image": "squadron-card/galactic-empire/zertik-strom.png"
+  }
+]

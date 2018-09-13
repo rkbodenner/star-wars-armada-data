@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Captain Jonus",
+    "subname": "TIE Bomber Squadron",
+    "unique": true,
+    "faction": "Galactic Empire",
+    "speed": 4,
+    "hull": 5,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 0, 1],
+    "attack": [0, 0, 1],
+    "text":
+      "While a friendly ship is attacking a ship at distance 1 of you, it may change 1 die to a face with an [Accuracy] icon.",
+    "keywords": ["Bomber", "Grit"],
+    "defense-tokens": ["Brace", "Brace"],
+    "points": 16,
+    "squadron-image": "squadron/galactic-empire/tie-bomber-squadron.png",
+    "image": "squadron-card/galactic-empire/captain-jonus.png"
+  }
+]

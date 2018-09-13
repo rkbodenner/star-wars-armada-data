@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Shara Bey",
+    "subname": "A-wing Squadron",
+    "unique": true,
+    "faction": "Rebel Alliance",
+    "speed": 5,
+    "hull": 4,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 3, 0],
+    "attack": [0, 0, 1],
+    "text":
+      "While performing a Counter attack, each [Critical Hit] icon adds 1 damage to the damage total.",
+    "keywords": ["Counter 3"],
+    "defense-tokens": ["Brace", "Scatter"],
+    "points": 17,
+    "squadron-image": "squadron/rebel-alliance/a-wing-squadron.png",
+    "image": "squadron-card/rebel-alliance/shara-bey.png"
+  }
+]

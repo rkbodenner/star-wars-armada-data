@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gamma Squadron",
+    "subname": "TIE Bomber Squadron",
+    "unique": true,
+    "faction": "Galactic Empire",
+    "speed": 4,
+    "hull": 5,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 0, 1],
+    "attack": [0, 0, 1],
+    "keywords": ["Bomber", "Grit"],
+    "points": 10,
+    "squadron-image": "squadron/galactic-empire/tie-bomber-squadron.png",
+    "image": "squadron-card/galactic-empire/gamma-squadron.png"
+  }
+]

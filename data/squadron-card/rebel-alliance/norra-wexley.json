@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Norra Wexley",
+    "subname": "Y-wing Squadron",
+    "unique": true,
+    "faction": "Rebel Alliance",
+    "speed": 3,
+    "hull": 6,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 3, 0],
+    "attack": [0, 0, 1],
+    "text":
+      "Friendly squadrons with Bomber at distance 1 gain: \"[Critical Hit]: The defending hull zone loses 1 shield.\"",
+    "keywords": ["Bomber"],
+    "defense-tokens": ["Brace", "Brace"],
+    "points": 17,
+    "squadron-image": "squadron/rebel-alliance/y-wing-squadron.png",
+    "image": "squadron-card/rebel-alliance/norra-wexley.png"
+  }
+]
