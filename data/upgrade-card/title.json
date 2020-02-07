@@ -30,7 +30,16 @@
     "ship": "Imperial-class Star Destroyer",
     "faction": "Galactic Empire",
     "points": 5,
-    "image": "upgrade-card/title/avenger.png"
+    "image": "upgrade-card/title/avenger.png",
+    "errata": [
+      {
+        "version": "original",
+        "text": "While attacking, the defender cannot spend exhausted defense tokens."
+      },
+      {
+        "version": "4.1.2"
+      }
+    ]
   },
   {
     "name": "Bright Hope",
@@ -161,7 +170,16 @@
     "ship": "Assault Frigate Mark II",
     "faction": "Rebel Alliance",
     "points": 8,
-    "image": "upgrade-card/title/gallant-haven.png"
+    "image": "upgrade-card/title/gallant-haven.png",
+    "errata": [
+      {
+        "version": "original",
+        "text": "Before a friendly squadron at distance 1 suffers damage from an attack, reduce the total damage by 1."
+      },
+      {
+        "version": "4.1.2"
+      }
+    ]
   },
   {
     "name": "Garel's Honor",
@@ -498,6 +516,15 @@
     "ship": "Nebulon-B Frigate",
     "faction": "Rebel Alliance",
     "points": 5,
-    "image": "upgrade-card/title/yavaris.png"
+    "image": "upgrade-card/title/yavaris.png",
+    "errata": [
+      {
+        "version": "original",
+        "text": "[Squadron]: Each squadron you activate can attack twice if it does not move."
+      },
+      {
+        "version": "4.1.2"
+      }
+    ]
   }
 ]
