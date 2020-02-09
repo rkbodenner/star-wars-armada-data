@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Executor II-Class Star Dreadnought",
+    "size": "huge",
+    "faction": "Galactic Empire",
+    "hull": 33,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [1, 1, 1],
+    "command": 4,
+    "squadron": 6,
+    "engineering": 5,
+    "attack": {
+      "front": [5, 5, 0],
+      "right": [4, 3, 1],
+      "left": [4, 3, 1],
+      "aux-right": [3, 3, 1],
+      "aux-left": [3, 3, 1],
+      "rear": [2, 1, 1]
+    },
+    "shield": {
+      "front": 6,
+      "right": 5,
+      "left": 5,
+      "aux-right": 5,
+      "aux-left": 5,
+      "rear": 3
+    },
+    "defense-tokens": ["Brace", "Brace", "Redirect", "Redirect", "Contain", "Contain"],
+    "speed-chart": {
+      "1": ["-"],
+      "2": ["-", "-"]
+    },
+    "slots": [
+      "Officer",
+      "Officer",
+      "Officer",
+      "Officer",
+      "Weapons Team",
+      "Fleet Command",
+      "Offensive Retrofit",
+      "Offensive Retrofit",
+      "Ion Cannons",
+      "Ion Cannons",
+      "Turbolasers",
+      "Turbolasers"
+    ],
+    "points": 411
+  }
+]

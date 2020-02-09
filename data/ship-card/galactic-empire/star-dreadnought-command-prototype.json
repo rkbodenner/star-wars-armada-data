@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Star Dreadnought Command Prototype",
+    "size": "huge",
+    "faction": "Galactic Empire",
+    "hull": 22,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 2, 0],
+    "command": 4,
+    "squadron": 5,
+    "engineering": 4,
+    "attack": {
+      "front": [4, 4, 0],
+      "right": [3, 1, 1],
+      "left": [3, 1, 1],
+      "aux-right": [2, 1, 1],
+      "aux-left": [2, 1, 1],
+      "rear": [1, 1, 1]
+    },
+    "shield": {
+      "front": 6,
+      "right": 3,
+      "left": 3,
+      "aux-right": 3,
+      "aux-left": 3,
+      "rear": 2
+    },
+    "defense-tokens": ["Brace", "Brace", "Redirect", "Redirect", "Contain", "Contain"],
+    "speed-chart": {
+      "1": ["-"],
+      "2": ["-", "-"]
+    },
+    "slots": [
+      "Officer",
+      "Officer",
+      "Officer",
+      "Weapons Team",
+      "Fleet Command",
+      "Fleet Command",
+      "Offensive Retrofit",
+      "Ion Cannons",
+      "Turbolasers"
+    ],
+    "points": 220
+  }
+]
