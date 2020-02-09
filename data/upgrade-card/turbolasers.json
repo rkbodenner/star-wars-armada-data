@@ -25,6 +25,13 @@
     "image": "upgrade-card/turbolasers/h9-turbolasers.png"
   },
   {
+    "name": "Heavy Fire Zone",
+    "text":
+      "While attacking a squadron, before you gather dice, if the defender is not engaged with a friendly squadron you may replace all of the blue dice in your anti-squadron armament with red dice.",
+    "slots": ["Turbolasers"],
+    "points": 4
+  },
+  {
     "name": "Heavy Turbolaser Turrets",
     "text":
       "While attacking, the [Brace] defense effect cannot reduce the damage total by more than 1 unless it is the only defense token spent by the defender during the attack.",

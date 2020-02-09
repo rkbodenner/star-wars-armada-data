@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Magnite Crysal Tractor Beam Array",
+    "text":
+      "After the end of your activation, you may exhaust this card to choose 1 enemy ship at distance 1-5. That ship's speed is increased or decreased to match your speed. While your speed is 0, you cannot ready this card.",
+    "slots": ["Superweapon"],
+    "ship": "Starhawk-class Battleship",
+    "faction": "Rebel Alliance",
+    "points": 10
+  }
+]

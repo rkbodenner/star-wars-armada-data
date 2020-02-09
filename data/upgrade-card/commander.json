@@ -170,6 +170,15 @@
     "image": "upgrade-card/commander/grand-moff-tarkin.png"
   },
   {
+    "name": "Kyrsta Agate",
+    "unique": true,
+    "text":
+      "After you deploy, gain 1 non-[Scatter] defense token. During your \"Spend Defense Tokens\" step, if your speed is not 0, you may discard 1 defense token to resolve the effect of that defense token. You cannot resolve the effect of each type of defense token more than once per attack.",
+    "faction": "Rebel Alliance",
+    "slots": ["Commander"],
+    "points": 20
+  },
+  {
     "name": "Leia Organa",
     "unique": true,
     "text":

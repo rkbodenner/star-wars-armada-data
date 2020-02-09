@@ -32,6 +32,12 @@
     "image": "upgrade-card/weapons-team/gunnery-team.png"
   },
   {
+    "name": "Local Fire Control",
+    "text": "After you deploy, you must replace 1 of your defense tokens with a [Salvo] defense token.",
+    "slots": ["Weapons Team"],
+    "points": 4
+  },
+  {
     "name": "Ordnance Experts",
     "text": "While attacking, you may reroll any number of your black dice.",
     "slots": ["Weapons Team"],

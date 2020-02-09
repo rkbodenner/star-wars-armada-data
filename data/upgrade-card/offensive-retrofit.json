@@ -24,6 +24,14 @@
     "image": "upgrade-card/offensive-retrofit/expanded-hangar-bay.png"
   },
   {
+    "name": "Flag Bridge",
+    "trait": "Modification",
+    "restriction": ["Small or medium ship only.", "Flagship only."],
+    "text": "You gain 1 [Fleet Command] icon in you upgrade bar. You cannot spend a command token to resolve a [Fleet Command] card's effect.",
+    "slots": ["Offensive Retrofit"],
+    "points": 0
+  },
+  {
     "name": "Hardened Bulkheads",
     "restriction": "Large ship only.",
     "text":

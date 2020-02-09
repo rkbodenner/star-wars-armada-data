@@ -11,6 +11,17 @@
     "image": "upgrade-card/title/admonition.png"
   },
   {
+    "name": "Amity",
+    "unique": true,
+    "restriction": "Mark I only.",
+    "text":
+      "After you deploy, gain 1 [Evade] defense token. When an enemy ship overlaps you, you may deal 1 additional facedown damage card to both ships.",
+    "slots": ["Title"],
+    "ship": "Starhawk-class Battleship",
+    "faction": "Rebel Alliance",
+    "points": 6
+  },
+  {
     "name": "Aspiration",
     "unique": true,
     "text":
@@ -73,6 +84,17 @@
     "faction": "Galactic Empire",
     "points": 4,
     "image": "upgrade-card/title/chimaera.png"
+  },
+  {
+    "name": "Concord",
+    "unique": true,
+    "restriction": "Mark I only.",
+    "text":
+      "After you deploy, gain 1 [Salvo] defense token. While defending, if your speed is 0, during your Spend Defense Tokens step, you can spend 1 defense token.",
+    "slots": ["Title"],
+    "ship": "Starhawk-class Battleship",
+    "faction": "Rebel Alliance",
+    "points": 12
   },
   {
     "name": "Corrupter",
@@ -484,6 +506,16 @@
     "faction": "Rebel Alliance",
     "points": 1,
     "image": "upgrade-card/title/task-force-organa.png"
+  },
+  {
+    "name": "Unity",
+    "unique": true,
+    "text":
+      "After you deploy, gain 1 [Redirect] defense token. While attacking a squadron, if the defender is engaged with a friendly squadron without the printed [Heavy] keyword, you may reroll 1 die.",
+    "slots": ["Title"],
+    "ship": "Starhawk-class Battleship",
+    "faction": "Rebel Alliance",
+    "points": 10
   },
   {
     "name": "Vector",

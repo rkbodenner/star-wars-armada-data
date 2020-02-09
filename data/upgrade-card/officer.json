@@ -196,6 +196,15 @@
     "image": "upgrade-card/officer/intel-officer.png"
   },
   {
+    "name": "Kyrsta Agate",
+    "unique": true,
+    "text":
+      "Red or Blue [Critical Hit]: You may exhaust this card to ready 1 of your exhausted defense tokens. You can resolve this critical effect during a [Salvo] attack.",
+    "faction": "Rebel Alliance",
+    "slots": ["Officer"],
+    "points": 5
+  },
+  {
     "name": "Lando Calrissian",
     "unique": true,
     "text":
@@ -341,6 +350,15 @@
     "slots": ["Officer"],
     "points": 3,
     "image": "upgrade-card/officer/weapons-liaison.png"
+  },
+  {
+    "name": "Wedge Antilles",
+    "unique": true,
+    "text":
+      "Before the end of the Squadron Phase, you may spend 1 [Squadron] token to choose up to 3 friendly non-unique squadrons without [Strategic] at distance 1-5. Those squadrons gain [Cloak] until the end of the round.",
+    "faction": "Rebel Alliance",
+    "slots": ["Officer"],
+    "points": 4
   },
   {
     "name": "Wing Commander",
