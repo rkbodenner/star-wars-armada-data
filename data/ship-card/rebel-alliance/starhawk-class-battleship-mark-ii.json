@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Starhawk-Class Battleship Mark II",
+    "size": "large",
+    "faction": "Rebel Alliance",
+    "hull": 14,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [1, 1, 0],
+    "command": 4,
+    "squadron": 3,
+    "engineering": 4,
+    "attack": {
+      "front": [4, 3, 1],
+      "right": [3, 2, 0],
+      "left": [3, 2, 0],
+      "rear": [2, 1, 0]
+    },
+    "shield": {
+      "front": 6,
+      "right": 4,
+      "left": 4,
+      "rear": 2
+    },
+    "defense-tokens": ["Brace", "Redirect", "Contain", "Salvo"],
+    "speed-chart": {
+      "1": ["|"],
+      "2": ["|", "|"]
+    },
+    "slots": ["Officer", "Officer", "Weapons Team", "Offensive Retrofit", "Ion Cannons", "Turbolasers", "Superweapon"],
+    "points": 150
+  }
+]
