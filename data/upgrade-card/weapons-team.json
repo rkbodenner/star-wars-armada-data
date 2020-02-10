@@ -1,6 +1,7 @@
 [
   {
     "name": "Caitken and Shollan",
+    "unique": true,
     "text": "While attacking, you may exhaust this card to reroll any number of dice of 1 color.",
     "slots": ["Weapons Team"],
     "faction": "Rebel Alliance",
