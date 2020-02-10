@@ -74,6 +74,16 @@
     "image": "upgrade-card/title/bright-hope.png"
   },
   {
+    "name": "Cataclysm",
+    "unique": true,
+    "text":
+      "After the start of the Ship Phase, you may spend 1 [Concentrate Fire] token to place your targeting token within your special firing arc within the range specified by one of your [Ignition] keywords.",
+    "slots": ["Title"],
+    "ship": "Onager-class Star Destroyer",
+    "faction": "Galactic Empire",
+    "points": 5
+  },
+  {
     "name": "Centicore",
     "unique": true,
     "text":
@@ -420,6 +430,16 @@
     "image": "upgrade-card/title/quantum-storm.png"
   },
   {
+    "name": "Rakehell",
+    "unique": true,
+    "text":
+      "[Navigate]: While executing a 0-speed maneuver, you can resolve clicks of yaw at the speed-0 joint, and are treated as having a yaw value of \"I\" for that maneuver.",
+    "slots": ["Title"],
+    "ship": "Onager-class Star Destroyer",
+    "faction": "Galactic Empire",
+    "points": 4
+  },
+  {
     "name": "Ravager",
     "unique": true,
     "text":
@@ -504,6 +524,16 @@
     "faction": "Galactic Empire",
     "points": 5,
     "image": "upgrade-card/title/stronghold.png"
+  },
+  {
+    "name": "Sunder",
+    "unique": true,
+    "text":
+      "Blue or Black [Critical Hit]: You may discard this card to choose and discard 1 [Offensive Retrofit], [Defensive Retrofit], [Ordnance], [Ion Cannons], or [Turbolasers] upgrade card equipped to the defender.",
+    "slots": ["Title"],
+    "ship": "Onager-class Star Destroyer",
+    "faction": "Galactic Empire",
+    "points": 10
   },
   {
     "name": "Suppressor",

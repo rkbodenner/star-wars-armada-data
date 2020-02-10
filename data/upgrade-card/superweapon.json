@@ -7,5 +7,25 @@
     "ship": "Starhawk-class Battleship",
     "faction": "Rebel Alliance",
     "points": 10
+  },
+  {
+    "name": "Orbital Bombardment Particle Cannons",
+    "trait": "Modification",
+    "text":
+      "[Ignition (Long)] [Ignition], Red [Critical Hit]: Each other ship at distance 1 of the defender suffers 2 damage, and each squadron at distance 1 of the defender suffers 1 damage.",
+    "slots": ["Superweapon"],
+    "ship": "Onager-class Star Destroyer",
+    "faction": "Galactic Empire",
+    "points": 5
+  },
+  {
+    "name": "Superheavy Composite Beam Turbolasers",
+    "trait": "Modification",
+    "text":
+      "[Ignition (Medium)] [Ignition], Red [Critical Hit]: The defender suffers 1 damage. This occurs once for each red or blue [Critical Hit] icon in the pool.",
+    "slots": ["Superweapon"],
+    "ship": "Onager-class Star Destroyer",
+    "faction": "Galactic Empire",
+    "points": 7
   }
 ]

@@ -116,6 +116,15 @@
     "image": "upgrade-card/officer/commandant-aresko.png"
   },
   {
+    "name": "Commander Beck",
+    "unique": true,
+    "text":
+      "During your activation, you may resolve a command as if you had spent a command token. If you do, gain 1 raid token of the matching type. You may resolve this effect twice per activation.",
+    "slots": ["Officer"],
+    "faction": "Galactic Empire",
+    "points": 3
+  },
+  {
     "name": "Commander Gherant",
     "unique": true,
     "text":
@@ -314,6 +323,15 @@
     "slots": ["Officer"],
     "points": 7,
     "image": "upgrade-card/officer/raymus-antilles.png"
+  },
+  {
+    "name": "Reeva Demesne",
+    "unique": true,
+    "text":
+      "After you are declared as the target of an attack, if the defending hull zone has at least 1 shield remaining, you may exhaust this card to ready 1 defense token.",
+    "slots": ["Officer"],
+    "faction": "Galactic Empire",
+    "points": 4
   },
   {
     "name": "Skilled First Officer",

@@ -24,6 +24,14 @@
     "image": "upgrade-card/weapons-team/flight-controllers.png"
   },
   {
+    "name": "Gunnery Chief Varnillian",
+    "unique": true,
+    "text": "After you deploy, place 1 red die set to a blank face on this card. If you are the second player, set it to any face instead. While attacking a ship, you may spend 1 die from the attack pool to exchange it with the die on this card. Both dice remain set to their current faces.",
+    "slots": ["Weapons Team"],
+    "faction": "Galactic Empire",
+    "points": 6
+  },
+  {
     "name": "Gunnery Team",
     "text":
       "You can attack from the same hull zone more than once per activation. That hull zone cannot target the same ship or squadron more than once during that activation.",

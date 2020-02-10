@@ -158,6 +158,15 @@
     "image": "upgrade-card/commander/general-rieekan.png"
   },
   {
+    "name": "General Romodi",
+    "unique": true,
+    "text":
+      "While a friendly ship is attacking a ship, if the attack is obstructed by a ship or obstacle, the attacker does not remove a die (even if the attack is also obstructed by a card effect), and may add 1 red die to the attack pool.",
+    "faction": "Galactic Empire",
+    "slots": ["Commander"],
+    "points": 20
+  },
+  {
     "name": "General Tagge",
     "unique": true,
     "text":

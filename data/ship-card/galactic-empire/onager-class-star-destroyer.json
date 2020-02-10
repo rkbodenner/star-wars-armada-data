@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Onager-class Star Destroyer",
+    "size": "large",
+    "faction": "Galactic Empire",
+    "hull": 10,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 1, 1],
+    "command": 3,
+    "squadron": 2,
+    "engineering": 3,
+    "attack": {
+      "front": [2, 2, 1],
+      "ignition": [3, 2, 2],
+      "right": [3, 0, 1],
+      "left": [3, 0, 1],
+      "rear": [2, 1, 0]
+    },
+    "shield": {
+      "front": 5,
+      "right": 2,
+      "left": 2,
+      "rear": 1
+    },
+    "defense-tokens": ["Brace", "Redirect", "Salvo"],
+    "speed-chart": {
+      "1": ["|"],
+      "2": ["|", "|"],
+      "3": ["|", "|", "-"]
+    },
+    "slots": ["Officer", "Weapons Team", "Weapons Team", "Turbolasers", "Superweapon"],
+    "points": 110
+  }
+]
