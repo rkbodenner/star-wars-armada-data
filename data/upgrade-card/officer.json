@@ -30,6 +30,15 @@
     "image": "upgrade-card/officer/admiral-montferrat.png"
   },
   {
+    "name": "Admiral Ozzel",
+    "unique": true,
+    "text":
+      "At the start of the first round, you may execute a speed-1 maneuver.",
+    "slots": ["Officer"],
+    "faction": "Galactic Empire",
+    "points": 2
+  },
+  {
     "name": "Admiral Titus",
     "unique": true,
     "text": "At the start of the first round, you may change 1 enemy ship's speed by 1.",
@@ -107,12 +116,30 @@
     "image": "upgrade-card/officer/commandant-aresko.png"
   },
   {
+    "name": "Commander Gherant",
+    "unique": true,
+    "text":
+      "While you are defending, the attacker cannot resolve critical effects. After you perform an attack against a ship, discard this card.",
+    "slots": ["Officer"],
+    "faction": "Galactic Empire",
+    "points": 2
+  },
+  {
     "name": "Damage Control Officer",
     "text":
       "When you resolve the [Contain] defense effect, you can prevent the attacker from resolving any critical effects.",
     "slots": ["Officer"],
     "points": 5,
     "image": "upgrade-card/officer/damage-control-officer.png"
+  },
+  {
+    "name": "Darth Vader",
+    "unique": true,
+    "text":
+      "While a friendly ship at distance 1-5 is attacking a ship, it may discard 1 of its [Commander] or [Officer] cards (other than Darth Vader) to reroll any number of dice in its attack pool.",
+    "slots": ["Officer"],
+    "faction": "Galactic Empire",
+    "points": 1
   },
   {
     "name": "Defense Liaison",
@@ -131,6 +158,24 @@
     "faction": "Galactic Empire",
     "points": 3,
     "image": "upgrade-card/officer/director-isard.png"
+  },
+  {
+    "name": "Director Krennic",
+    "unique": true,
+    "text":
+      "[Concentrate Fire]: While attacking at medium-long range, if you spent a [Concentrate Fire] dial, you may also reroll any number of red dice in your attack pool. If you spent a [Concentrate Fire] token, you may also reroll up to 2 red dice in your attack pool.",
+    "slots": ["Officer"],
+    "faction": "Galactic Empire",
+    "points": 8
+  },
+  {
+    "name": "Emperor Palpatine",
+    "unique": true,
+    "text":
+      "When an enemy ship or unique squadron declares you as the target of an attack, it must spend 1 of its defense tokens (if able).",
+    "slots": ["Officer"],
+    "faction": "Galactic Empire",
+    "points": 3
   },
   {
     "name": "Engineering Captain",
@@ -223,6 +268,15 @@
     "slots": ["Officer"],
     "points": 3,
     "image": "upgrade-card/officer/leia-organa.png"
+  },
+  {
+    "name": "Lira Wessex",
+    "unique": true,
+    "text":
+      "When you are dealt a faceup damage card, you may spend 1 [Repair] token to flip that card facedown (without resolving its effect).",
+    "slots": ["Officer"],
+    "faction": "Galactic Empire",
+    "points": 2
   },
   {
     "name": "Major Derlin",

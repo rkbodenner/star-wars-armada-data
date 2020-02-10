@@ -40,6 +40,15 @@
     "image": "upgrade-card/commander/admiral-ozzel.png"
   },
   {
+    "name": "Admiral Piett",
+    "unique": true,
+    "text":
+      "When a friendly ship spends only a command token to resolve a command, you may exhaust this card. If you do, that ship resolves that command as if it had spent a dial of the same type instead.",
+    "faction": "Galactic Empire",
+    "slots": ["Commander"],
+    "points": 22
+  },
+  {
     "name": "Admiral Raddus",
     "unique": true,
     "text":
@@ -88,6 +97,15 @@
     "slots": ["Commander"],
     "points": 36,
     "image": "upgrade-card/commander/darth-vader.png"
+  },
+  {
+    "name": "Emperor Palpatine",
+    "unique": true,
+    "text":
+      "After deploying fleets, place 1 defense token of each type on this card. At the start of each Ship Phase you may discard 1 of those tokens. If you do, until the end of the round, if an enemy ship or squadron spends a matching token during its Spend Defense Tokens step, discard that token.",
+    "faction": "Galactic Empire",
+    "slots": ["Commander"],
+    "points": 35
   },
   {
     "name": "Garm Bel Iblis",

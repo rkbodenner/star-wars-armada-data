@@ -22,6 +22,16 @@
     "points": 6
   },
   {
+    "name": "Annihilator",
+    "unique": true,
+    "text":
+      "While attacking a squadron, you may reroll 1 attack die.",
+    "slots": ["Title"],
+    "ship": "Star Dreadnought",
+    "faction": "Galactic Empire",
+    "points": 8
+  },
+  {
     "name": "Aspiration",
     "unique": true,
     "text":
@@ -163,6 +173,16 @@
     "image": "upgrade-card/title/dominator.png"
   },
   {
+    "name": "Eclipse",
+    "unique": true,
+    "text":
+      "When an enemy ship overlaps you, the enemy ship suffers a faceup damage card instead of a facedown damage card.",
+    "slots": ["Title"],
+    "ship": "Star Dreadnought",
+    "faction": "Galactic Empire",
+    "points": 3
+  },
+  {
     "name": "Endeavor",
     "unique": true,
     "text": "At the start of the first round, gain 1 [Contain] defense token.",
@@ -171,6 +191,16 @@
     "faction": "Rebel Alliance",
     "points": 4,
     "image": "upgrade-card/title/endeavor.png"
+  },
+  {
+    "name": "Executor",
+    "unique": true,
+    "text":
+      "You can be assigned any number of command tokens of any types, instead of a number of command tokens equal to your command value.",
+    "slots": ["Title"],
+    "ship": "Star Dreadnought",
+    "faction": "Galactic Empire",
+    "points": 2
   },
   {
     "name": "Foresight",
@@ -388,6 +418,16 @@
     "faction": "Rebel Alliance",
     "points": 1,
     "image": "upgrade-card/title/quantum-storm.png"
+  },
+  {
+    "name": "Ravager",
+    "unique": true,
+    "text":
+      "[Concentrate Fire]: Your [Concentrate Fire] tokens can either reroll 1 attack die or add 1 die to your attack pool. If you add a die, that die must be of a color already in your attack pool.",
+    "slots": ["Title"],
+    "ship": "Star Dreadnought",
+    "faction": "Galactic Empire",
+    "points": 4
   },
   {
     "name": "Redemption",
