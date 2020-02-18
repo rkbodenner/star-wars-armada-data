@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Moralo Eval",
+    "subname": "YV-666",
+    "unique": true,
+    "faction": "Galactic Empire",
+    "speed": 3,
+    "hull": 7,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 2, 2],
+    "attack": [0, 2, 0],
+    "text":
+      "When an objective token at distance 1-2 and not on an obstacle is moved or removed from the play area, you may move up to distance 1 and attack as if you were activated.",
+    "keywords": ["Grit", "Rogue"],
+    "defense-tokens": ["Brace"],
+    "points": 22,
+    "squadron-image": "squadron/galactic-empire/yv-666.png"
+  }
+]

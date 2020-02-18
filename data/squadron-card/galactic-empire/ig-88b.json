@@ -1,0 +1,18 @@
+[
+  {
+    "name": "IG-88B",
+    "subname": "IG-2000b",
+    "unique": true,
+    "faction": "Galactic Empire",
+    "speed": 5,
+    "hull": 5,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 2, 2],
+    "attack": [0, 0, 1],
+    "text": "At the start of Squadron Phase, you may toggle your activation slider to the activated side. If you do, you may perform an anti-squadron attack against each enemy squadron at distance 1. Treat these attacks as obstructed.",
+    "keywords": ["Counter 1", "Rogue"],
+    "defense-tokens": ["Scatter"],
+    "points": 21,
+    "squadron-image": "squadron/galactic-empire/aggressor-assault-fighter.png"
+  }
+]

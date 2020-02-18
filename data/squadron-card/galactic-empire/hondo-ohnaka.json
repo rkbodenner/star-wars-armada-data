@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Hondo Ohnaka",
+    "subname": "Slave I",
+    "unique": true,
+    "faction": "Galactic Empire",
+    "speed": 3,
+    "hull": 6,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 4, 0],
+    "attack": [0, 2, 0],
+    "text":
+      "During your activation, instead of attacking, you may toggle the activation slider of 1 squadron at distance 1 to the activated side. If it was already activated, you may place it anywhere at distance 1 of you.",
+    "keywords": ["Bomber", "Grit", "Rogue"],
+    "defense-tokens": ["Brace", "Brace"],
+    "points": 24,
+    "squadron-image": "squadron/galactic-empire/firespray-31.png"
+  }
+]
