@@ -75,5 +75,12 @@
     "slots": ["Weapons Team"],
     "points": 5,
     "image": "upgrade-card/weapons-team/veteran-gunners.png"
+  },
+  {
+    "name": "Weapons Battery Techs",
+    "text":
+      "While attacking a ship, you may change 1 die face with a [Accuracy] icon to a face with [Critical Hit] icon.",
+    "slots": ["Weapons Team"],
+    "points": 5
   }
 ]

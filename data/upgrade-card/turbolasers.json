@@ -40,6 +40,13 @@
     "image": "upgrade-card/turbolasers/heavy-turbolaser-turrets.png"
   },
   {
+    "name": "Linked Turbolaser Towers",
+    "text":
+      "You may reroll 1 red die in your attack pool. While attacking the first squadron during your activation, you may add 2 dice of any color to your attack pool. If you do, you cannot declare additional squadron targets for this attack.",
+    "slots": ["Turbolasers"],
+    "points": 7
+  },
+  {
     "name": "Quad Battery Turrets",
     "trait": "Modification",
     "text":

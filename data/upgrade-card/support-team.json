@@ -1,5 +1,12 @@
 [
   {
+    "name": "Auxiliary Shields Team",
+    "text":
+      "[Repair]: You may treat the maximum shield values of your right and left hull zones as increased by 1 when you recover or move shields to those zones. If you do, the number of shields in those zones cannot exceed a maximum of \"4\".",
+    "slots": ["Support Team"],
+    "points": 3
+  },
+  {
     "name": "Engine Techs",
     "text":
       "[Navigate]: After you execute a maneuver, you may exhaust this card to execute a 1-speed maneuver.",

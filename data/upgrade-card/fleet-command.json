@@ -30,5 +30,12 @@
     "slots": ["Fleet Command"],
     "points": 6,
     "image": "upgrade-card/fleet-command/shields-to-maximum.png"
+  },
+  {
+    "name": "Take Evasive Action!",
+    "text":
+      "At the start of the Ship Phase, you may discard this card or spend a [Navigate] token. If you do, until the end of the round, each friendly ship may increase the last yaw value of its current speed by 1 during its Determine Course step.",
+    "slots": ["Fleet Command"],
+    "points": 6
   }
 ]

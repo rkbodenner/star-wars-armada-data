@@ -128,6 +128,16 @@
     "image": "upgrade-card/title/corrupter.png"
   },
   {
+    "name": "Corvus",
+    "unique": true,
+    "text":
+      "After deploying fleets, you may redeploy this ship within your deployment zone.",
+    "slots": ["Title"],
+    "ship": "Raider-class Corvette",
+    "faction": "Galactic Empire",
+    "points": 2
+  },
+  {
     "name": "Defiance",
     "unique": true,
     "text":
@@ -266,6 +276,16 @@
     "image": "upgrade-card/title/hand-of-justice.png"
   },
   {
+    "name": "Harrow",
+    "unique": true,
+    "text":
+      "You gain 1 additional [Support Team] icon in your upgrade bar. When you execute a speed-1 maneuver, during your Determine Course step, you may change your first yaw value to \"II\" until the end of your activation.",
+    "slots": ["Title"],
+    "ship": "Victory-class Star Destroyer",
+    "faction": "Galactic Empire",
+    "points": 3
+  },
+  {
     "name": "Home One",
     "unique": true,
     "text":
@@ -341,6 +361,16 @@
     "faction": "Rebel Alliance",
     "points": 2,
     "image": "upgrade-card/title/jainas-light.png"
+  },
+  {
+    "name": "Liberator",
+    "unique": true,
+    "text":
+      "You gain 1 additional [Fleet Command] icon in you upgrade bar. You cannot equip this card if you have a [Fleet Command] icon in your upgrade bar. You cannot spend a command token to resolve a [Fleet Command] card's effect.",
+    "slots": ["Title"],
+    "ship": "CR90 Corvette",
+    "faction": "Rebel Alliance",
+    "points": 2
   },
   {
     "name": "Liberty",
@@ -586,6 +616,16 @@
     "ship": "Starhawk-class Battleship",
     "faction": "Rebel Alliance",
     "points": 10
+  },
+  {
+    "name": "Vanguard",
+    "unique": true,
+    "text":
+      "You gain 1 additional [Weapons Team] icon in your upgrade bar. At the start of the first round, you may replace 1 of your defense tokens with a [Redirect] defense token.",
+    "slots": ["Title"],
+    "ship": "Nebulon-B Frigate",
+    "faction": "Rebel Alliance",
+    "points": 4
   },
   {
     "name": "Vector",
