@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Kanan Jarrus",
+    "subname": "HWK-290",
+    "unique": true,
+    "faction": "Rebel Alliance",
+    "speed": 3,
+    "hull": 4,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [1, 2, 0],
+    "attack": [0, 2, 0],
+    "text":
+      "While attacking a ship, you may spend 1 die with a [Critical Hit] icon. If you do, the defender gains 1 raid token of your choice.",
+    "keywords": ["Assault", "Cloak", "Rogue"],
+    "defense-tokens": ["Brace", "Brace"],
+    "points": 19,
+    "squadron-image": "squadron/rebel-alliance/hwk-290.png"
+  }
+]

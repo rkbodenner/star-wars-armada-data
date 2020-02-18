@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Malee Hurra",
+    "subname": "Scurrg H-6 Bomber",
+    "unique": true,
+    "faction": "Rebel Alliance",
+    "speed": 3,
+    "hull": 6,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [1, 1, 0],
+    "attack": [0, 2, 0],
+    "text":
+      "Once per activation, while a friendly ship is attacking a ship at distance 1 of you and you are engaged by 1 or fewer squadrons, the attacker may spend 1 die to change 1 die to a face with a [Critical Hit] icon.",
+    "keywords": ["Bomber", "Grit"],
+    "defense-tokens": ["Brace", "Brace"],
+    "points": 26,
+    "squadron-image": "squadron/rebel-alliance/scurrg-h-6-bomber.png"
+  }
+]

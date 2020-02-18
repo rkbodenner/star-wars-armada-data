@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Lando Calrissian",
+    "subname": "Millennium Falcon",
+    "unique": true,
+    "faction": "Rebel Alliance",
+    "speed": 3,
+    "hull": 7,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [1, 2, 1],
+    "attack": [1, 1, 0],
+    "text":
+      "While attacking, you may discard a defense token to set 1 die to any face. That die cannot be modified again. While defending, you may spend 1 of your defense tokens to force the attacker to reroll 1 or more dice of your choice.",
+    "keywords": ["Grit", "Rogue"],
+    "defense-tokens": ["Brace", "Brace"],
+    "points": 23,
+    "squadron-image": "squadron/rebel-alliance/yt-1300.png"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Mart Mattin",
+    "subname": "Sato's Hammer",
+    "unique": true,
+    "faction": "Rebel Alliance",
+    "speed": 4,
+    "hull": 6,
+    "__comment": "dice array is [red, blue, black] counts",
+    "squadron-attack": [0, 4, 0],
+    "attack": [0, 0, 1],
+    "text":
+      "At the start of the Squadron Phase, you may toggle your activation slider to the activated side. If you do, you may place 1 proximity mine token at distance 1.",
+    "keywords": ["Grit", "Rogue"],
+    "defense-tokens": ["Brace", "Brace"],
+    "points": 22,
+    "squadron-image": "squadron/rebel-alliance/yt-2400.png"
+  }
+]
