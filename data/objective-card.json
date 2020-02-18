@@ -244,7 +244,7 @@
       "After deploying fleets, the second player places 2 objective tokens in the setup area at distance 1-5 of each other."
     ],
     "special-rule":
-      "While attacking, if neither the attacker or defender are overlapping an objective token and line of sight is traced across an objective token or the line between the two objective tokens, the attacker must choose and remove half of the dice from the attack pool, rounded down, before rolling.",
+      "Special Rule: While attacking, if neither the attacker or defender are overlapping an objective token and line of sight is traced across an objective token or the line between the two objective tokens, the attacker must choose and remove half of the dice from the attack pool, rounded down, before rolling.",
     "end-of-round": "",
     "end-of-game": "",
     "points": 0,
@@ -303,12 +303,22 @@
     "setup":
       "Setup: After deploying fleets, the second player chooses 1 of his ships and 1 of the first player's ships to be the objective ships.",
     "special-rule":
-      "Special Rule: While attacking an objective ship, the attacker may add 1 die of any color that is already in its attack pool to its attack pool.",
+      "Special Rule: While a ship is attacking an objective ship, it may add 1 die of any color that is already in its attack pool to its attack pool.",
     "end-of-round": "",
     "end-of-game":
       "End of Game: The fleet point cost of a destroyed objective ship is doubled. Do not double the cost of its upgrade cards.",
     "points": 0,
-    "image": "objective-card/most-wanted.png"
+    "image": "objective-card/most-wanted.png",
+    "errata": [
+      {
+        "version": "original",
+        "special-rule":
+          "Special Rule: While attacking an objective ship, the attacker may add 1 die of any color that is already in its attack pool to its attack pool.",
+      },
+      {
+        "version": "2.2.1"
+      }
+    ]
   },
   {
     "title": "Opening Salvo",
