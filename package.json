@@ -1,27 +1,27 @@
 {
   "name": "star-wars-armada-data",
-  "version": "1.0.0",
+  "version": "1.8.0",
   "description": "",
   "main": ".eslintrc.js",
   "dependencies": {},
   "devDependencies": {
-    "eslint": "^5.4.0",
+    "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-json": "^1.2.1"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx eslint data/*.json data/ship-card/galactic-empire/* data/ship-card/rebel-alliance/* data/squadron-card/galactic-empire/* data/squadron-card/rebel-alliance/* data/upgrade-card/*"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jmthompson2015/star-wars-armada-data.git"
+    "url": "git+https://github.com/rkbodenner/star-wars-armada-data.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jmthompson2015/star-wars-armada-data/issues"
+    "url": "https://github.com/rkbodenner/star-wars-armada-data/issues"
   },
-  "homepage": "https://github.com/jmthompson2015/star-wars-armada-data#readme"
+  "homepage": "https://github.com/rkbodenner/star-wars-armada-data#readme"
 }
