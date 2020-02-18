@@ -43,6 +43,46 @@
     "points": 0
   },
   {
+    "title": "Blockade Run",
+    "category": "Assault",
+    "setup":
+      "Setup: The 3' edges of the play area become the player edges. Each player's deployment zone is within 2 range ruler lengths of his edge. The second player places all obstacles. Obstacles must be placed beyond 2 range ruler lengths of both player edges, and beyond distance 1 of other obstacles.",
+    "special-rule": [
+      "Special Rule: The second player assigns 1 objective token to each of his ships.",
+      "When a ship with an objective token is destroyed, the first player gains 1 victory token."
+    ],
+    "end-of-round": "",
+    "end-of-game":
+      "End of Game: The second player gains 1 victory token for each ship with an objective token within the first player's deployment zone.",
+    "points": 20
+  },
+  {
+    "title": "Capture the VIP",
+    "category": "Defense",
+    "setup":
+      "Setup: After placing obstacles, the second player places 1 objective token at distance 1 of any obstacle and beyond distance 5 of all edges of the setup area.",
+    "special-rule": [
+      "Special Rule: When a ship at distance 1 of the objective token reveals a command dial, the ship's owner may remove that objective token from the play area and place it on that ship's card.",
+      "When a ship with the objective token on its ship card is destroyed, the opposing player places the objective token in the play area touching the destroyed ship's base."
+    ],
+    "end-of-round": "",
+    "end-of-game": "End of Game: If a player's ship has the objective token, that player gains 1 victory token.",
+    "points": 50
+  },
+  {
+    "title": "Close-Range Intel Scan",
+    "category": "Assault",
+    "setup":
+      "Setup: Place obstacles, adding the 2 dust fields, as normal.",
+    "special-rule": [
+      "Special Rule: While one of the second player's ships is attacking a ship, the attacker may spend 1 die with an [Accuracy] icon. If it does, the attacker's owner gains 1 victory token.",
+      "While one of the first player's ships is attacking a ship, the attacker may spend 2 dice with [Accuracy] icons. If it does, the attacker's owner gains 1 victory token."
+    ],
+    "end-of-round": "",
+    "end-of-game": "",
+    "points": 10
+  },
+  {
     "title": "Contested Outpost",
     "category": "Defense",
     "setup":
@@ -79,6 +119,19 @@
     ],
     "end-of-game": "",
     "points": 20
+  },
+  {
+    "title": "Fighter Ambush",
+    "category": "Defense",
+    "setup": [
+      "Setup: Before deploying fleets, the second player sets aside all of his squadrons.",
+      "After deploying fleets, the second player deploys all of his squadrons. Each of his squadrons can be placed as normal or at distance 1 of an obstacle, but all his squadrons must be beyond distance 5 of the first player's edge."
+    ],
+    "special-rule":
+      "Special Rule: After a squadron performs an attack against a ship, if the defender was dealt at least 1 damage card, the squadron's owner gains 1 victory token.",
+    "end-of-round": "",
+    "end-of-game": "",
+    "points": 15
   },
   {
     "title": "Fire Lanes",
@@ -184,6 +237,41 @@
     "points": 15
   },
   {
+    "title": "Jamming Barrier",
+    "category": "Defense",
+    "setup": [
+      "Setup: Place obstacles as normal, excluding the station and replacing the 2 debris fields with the 2 dust fields.",
+      "After deploying fleets, the second player places 2 objective tokens in the setup area at distance 1-5 of each other."
+    ],
+    "special-rule":
+      "While attacking, if neither the attacker or defender are overlapping an objective token and line of sight is traced across an objective token or the line between the two objective tokens, the attacker must choose and remove half of the dice from the attack pool, rounded down, before rolling.",
+    "end-of-round": "",
+    "end-of-game": "",
+    "points": 0,
+    "errata": [
+      {
+        "version": "original",
+        "special-rule":
+          "Special Rule: While attacking, if line of sight is traced across the line between the two objective tokens, the attacker must choose and remove half of the dice from the attack pool, rounded down, before rolling."
+      },
+      {
+        "version": "3.3.1"
+      }
+    ]
+  },
+  {
+    "title": "Navigational Hazards",
+    "category": "Navigation",
+    "setup":
+      "Setup: Place obstacles as normal, excluding the station. Then the second player places the station in the setup area beyond distance 1 of all obstacles and beyond distance 5 of both players' edges of the play area.",
+    "special-rule":
+      "Special Rule: When a ship overlaps an obstacle and suffers 1 or more damage or is dealt 1 or more damage cards, the opposing fleet's owner gains 1 victory token.",
+    "end-of-round":
+      "End of Round: Starting with the second player and alternating, each player chooses 1 asteroid or debris field that does not have an objective token on it, and moves it to within distance 1-2 of its current location. Then, he places an objective token on that obstacle. An obstacle cannot be moved so that it overlaps a ship, squadron, or other obstacle. At the start of the next round, remove all objective tokens from the play area.",
+    "end-of-game": "",
+    "points": 15
+  },
+  {
     "title": "Marked for Destruction",
     "category": "Assault",
     "setup":
@@ -235,6 +323,19 @@
     "image": "objective-card/opening-salvo.png"
   },
   {
+    "title": "Planetary Ion Cannon",
+    "category": "Defense",
+    "setup":
+      "Setup: After placing obstacles, the second player places 3 objective tokens in the play area beyond distance 5 of both players' edges.",
+    "special-rule": [
+      "Special Rule: At the end of the Command Phase, the second player may choose 1 enemy ship at distance 1-3 of an objective token and remove that token from the play area to perform an attack against that ship. The attacker is treated as if it is a ship with a battery armament of 4 blue dice, but is not friendly to any ship or squadron. The attack is treated as being at medium range, cannot be obstructed, can target any of the defender's hull zones, and has the following critical effect:",
+      "Blue [Critical Hit]: The defender must choose and exhaust 1 of his defense tokens."
+    ],
+    "end-of-round": "",
+    "end-of-game": "",
+    "points": 0
+  },
+  {
     "title": "Precision Strike",
     "category": "Assault",
     "setup":
@@ -274,6 +375,56 @@
     "points": 10
   },
   {
+    "title": "Salvage Run",
+    "category": "Navigation",
+    "setup": [
+      "Setup: The second player places the station in the center of the play area. Then, starting with the second player, the players alternate placing the remaining obstacles, adding the 2 dust field obstacles, at distance 1-5 of the station.",
+      "After placing obstacles, the second player places a total of 4 objective tokens in the setup area. Each token must be at distance 1 of the station and beyond distance 1 of all other objective tokens.",
+      "After deploying fleets, each of the second player's ships gain a [Navigate] token."
+    ],
+    "special-rule":
+      "Special Rule: When a player's ship reveals a command dial, that player may chose 1 objective token at distance 1 of that ship and remove it from the play area to gain 1 victory token.",
+    "end-of-round": "",
+    "end-of-game": "",
+    "points": 20
+  },
+  {
+    "title": "Sensor Net",
+    "category": "Navigation",
+    "setup":
+      "Setup: After placing obstacles, the players alternate placing a total of 4 objective tokens in the setup area, starting with the first player. Each token must be placed in the setup area beyond distance 5 of both players' edges and beyond distance 3 of all other objective tokens.",
+    "special-rule": [
+      "Special Rule: When a ship reveals a command dial, if it is at distance 1 of at least 1 objective token, its owner gains 1 victory token.",
+      "Then, its owner chooses 1 of those objective tokens. The opposing player must move that token. If he is the first player, he moves the token so it is at distance 1-2 of its current location. If he is the second player, he moves it so it is at distance 1-4 of its current location."
+    ],
+    "end-of-round": "",
+    "end-of-game": "",
+    "points": 15
+  },
+  {
+    "title": "Solar Corona",
+    "category": "Navigation",
+    "setup":
+      "Setup: The first player must deploy all of his ships and squadrons before the second player. After the second player deploys ships and squadrons, the second player must choose 1 of the 3´ edges of the play area to be the [corona].",
+    "special-rule":
+      "Special Rule: While a ship is attacking, before resolving any attack effects, if any portion of the corona is inside the attacking hull zone's firing arc, the attacker must discard 1 die with a [Accuracy] icon from the attack pool, if able.",
+    "end-of-round": "",
+    "end-of-game": "",
+    "points": 0
+  },
+  {
+    "title": "Station Assault",
+    "category": "Assault",
+    "setup":
+      "Setup: Place obstacles as normal, excluding the station. Then the second player places 2 stations in the setup area. Each station must be placed beyond distance 1 of all obstacles and beyond distance 3 of both players' edges. Both stations are Unarmed Stations; place both Unarmed Station cards near the second player's ship cards.",
+    "special-rule":
+      "Special Rule: The first player's ships and squadrons cannot resolve an unarmed station's effect to discard damage cards or recover hull points when they overlap it.",
+    "end-of-round": "",
+    "end-of-game":
+      "End of Game: The second player gains 1 victory token for each unarmed station that is not destroyed. The first player gains 1 victory token for each unarmed station that is destroyed.",
+    "points": 40
+  },
+  {
     "title": "Superior Positions",
     "category": "Navigation",
     "setup":
@@ -295,6 +446,17 @@
     ],
     "special-rule":
       "Special Rule: At the start of the Ship Phase during the first, second, and third rounds, the second player reveals the top command dial on this card, and each of the first player's ships gains a raid token matching that dial.",
+    "end-of-round": "",
+    "end-of-game": "",
+    "points": 0
+  },
+  {
+    "title": "Targeting Beacons",
+    "category": "Assault",
+    "setup":
+      "Setup: After placing obstacles, the players alternate placing a total of 4 objective tokens in the setup area, starting with the second player.",
+    "special-rule":
+      "Special Rule: While one of the second player's ships is attacking a ship that is at distance 1-2 of an objective token, the attacker may reroll up to 2 attack dice in the attack pool.",
     "end-of-round": "",
     "end-of-game": "",
     "points": 0
