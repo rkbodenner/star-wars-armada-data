@@ -1,5 +1,20 @@
 [
   {
+    "title": "Abandoned Mining Facility",
+    "category": "Defense",
+    "setup": [
+      "Setup: The second player places the station in the center of the setup area. Then, starting with the second player, the players alternate placing the remaining obstacles, adding 2 purrgil and 2 dust fields and excluding the asteroid fields, at distance 2-5 of the station.",
+      "After deploying fleets, each of the second player's ships gains a [Repair] token."
+    ],
+    "special-rule": [
+      "Special Rule: Each ship can resolve the following effect:",
+      "[Repair]: You may spend engineering points to gain victory tokens from 1 station or dust field at distance 1. If that obstacle is a station, gain 1 token for each 3 points you spend. If that obstacle is a dust field, gain 1 token for each 2 points you spend. Then, if that obstacle is a dust field and you gained more than 1 victory token, remove that obstacle from the play area."
+    ],
+    "end-of-round": "",
+    "end-of-game": "",
+    "points": 10
+  },
+  {
     "title": "Advanced Gunnery",
     "category": "Assault",
     "setup":
@@ -11,6 +26,21 @@
       "End of Game: The fleet point cost of a destroyed objective ship is doubled. Do not double the cost of its upgrade cards.",
     "points": 0,
     "image": "objective-card/advanced-gunnery.png"
+  },
+  {
+    "title": "Asteroid Tactics",
+    "category": "Defense",
+    "setup":
+      "Setup: The second player places all obstacles, excluding the station.",
+    "special-rule": [
+      "Special Rule: When one of the first player's ships or unique squadrons overlaps an asteroid field, it may recover 1 of its non-[Scatter] defense tokens. That token must be exhausted.",
+      "When one of the second player's ships or unique squadrons overlaps an asteroid field, that obstacle has no effect and that ship or squadron may recover 1 of its non-[Scatter] defense tokens or may ready 1 of its defense tokens.",
+      "After the start of each squadron phase (after exogorths perform attacks), remove each exogorth obstacle from the play area."
+    ],
+    "end-of-round":
+      "End of Round: The second player places the 2 exogorth obstacles, each touching a different obstacle.",
+    "end-of-game": "",
+    "points": 0
   },
   {
     "title": "Contested Outpost",
@@ -38,6 +68,19 @@
     "image": "objective-card/dangerous-territory.png"
   },
   {
+    "title": "Doomed Station",
+    "category": "Navigation",
+    "setup":
+      "Setup: The second player places the gravity rift in the center of the setup area. Then, starting with the first player, the players alternate placing the remaining obstacles, excluding the station. Then the second player places the station in the setup area beyond distance 1 of all obstacles and beyond distance 5 of both player's edges.",
+    "special-rule": "",
+    "end-of-round": [
+      "End of Round: Starting with the second player and alternating, each player chooses 1 obstacle that does not have an objective token on it and moves it to within distance 1-2 of its current location toward the gravity rift (which cannot be chosen). Then that player places an objective token on that obstacle. When an obstacle touches the gravity rift, that obstacle is removed from the play area.",
+      "After all obstacles are moved, each player sums the command values of their ships at distance 1 of the station. The player with the highest total gains 1 victory token. Then remove all objectives tokens from the play area."
+    ],
+    "end-of-game": "",
+    "points": 20
+  },
+  {
     "title": "Fire Lanes",
     "category": "Defense",
     "setup":
@@ -61,6 +104,19 @@
     "image": "objective-card/fleet-ambush.png"
   },
   {
+    "title": "Fleet in Being",
+    "category": "Defense",
+    "setup":
+      "Setup: After deploying fleets, the first player assigns each of their ships 1 objective token. Then the second player assigns each of their ships a number of objective tokens equal to that ships command value.",
+    "special-rule":
+      "Special Rule: When a ship with an objective token is declared as the target of an attack, it may discard 1 objective token to ready 1 of its exhausted defense tokens.",
+    "end-of-round":
+      "End of Round: If a ship is at distance 1-5 of 1 of the 3' edges of the play area, or at distance 1-3 of a player edge, remove 1 objective token from that ship.",
+    "end-of-game":
+      "End of Game: Each player gains 1 victory token for each enemy ship in the play area that does not have an objective token.",
+    "points": 15
+  },
+  {
     "title": "Hyperspace Assault",
     "category": "Defense",
     "setup":
@@ -71,6 +127,34 @@
     "end-of-game": "",
     "points": 0,
     "image": "objective-card/hyperspace-assault.png"
+  },
+  {
+    "title": "Hyperspace Migration",
+    "category": "Navigation",
+    "setup":
+      "Setup: Place obstacles as normal, excluding the station. Then the second player places 1 objective token in the play area at distance 1 of a 3' edge and another objective token at distance 1 of the opposite 3' edge.",
+    "special-rule": [
+      "Special Rule: At the start of the Ship Phase of the first and third rounds, the second player places 1 purrgil not in the play area at distance 1 of 1 objective token (the objective token must be the same during both rounds).",
+      "When a purrgil moves, it must move toward the objective token at the opposite 3' edge. When a purrgil touches that objective token, that purrgil is removed from the play area."
+    ],
+    "end-of-round":
+      "End of Round: If a ship has 1 objective token on it, remove the token and that ship's owner gains 1 victory token. If a ship is at distance 1 from a purrgil and has no objective tokens on it, place 1 objective token on the ship.",
+    "end-of-game": "",
+    "points": 20
+  },
+  {
+    "title": "Infested Fields",
+    "category": "Navigation",
+    "setup":
+      "Setup: Place obstacles as normal, excluding the station. After placing obstacles, place 1 objective token on each obstacle. Then the second player places 2 exogorth obstacles, each touching a different obstacle.",
+    "special-rule": [
+      "Special Rule: When a ship or squadron overlaps an obstacle, that ship or squadron's owner may remove the objective token on the obstacle to gain 1 victory token.",
+      "After the start of each squadron phase (after exogorths perform attacks), remove each exogorth from the play area. Then the second player moves the obstacle each exogorth was touching to within distance 1-2 of its current location."
+    ],
+    "end-of-round":
+      "End of Round: For each exogorth obstacle not in the play area, the second player chooses an obstacle and places 1 exogorth to﻿uching that ob﻿stacl﻿e.",
+    "end-of-game": "",
+    "points": 15
   },
   {
     "title": "Intel Sweep",
@@ -84,6 +168,34 @@
       "End of Game: If a player has more victory tokens than his opponent, increase his final score by 75.",
     "points": 0,
     "image": "objective-card/intel-sweep.png"
+  },
+  {
+    "title": "Ion Storm",
+    "category": "Assault",
+    "setup":
+      "Setup: The second player places all obstacles, excluding the station, beyond distance 5 of both players' edges.",
+    "special-rule": [
+      "Special Rule: When a ship that does not have an objective token ends its movement beyond distance 2 of any obstacles (or beyond distance 1 if that ship belongs to the first player), assign 1 objective token to that ship. When a ship resolves a [Repair] command, it may discard its objective token.",
+      "Each ship has the following critical effect:",
+      "[Critical Hit]: If the defender has an objective token, the attacking ship's owner gains 1 victory token. Then choose and discard 1 command token from the defender. If the defender does not have any command tokens, the defending hull zone loses 1 shield instead."
+    ],
+    "end-of-round": "",
+    "end-of-game": "",
+    "points": 15
+  },
+  {
+    "title": "Marked for Destruction",
+    "category": "Assault",
+    "setup":
+      "Setup: Place obstacles as normal, adding the 2 dust fields and excluding the station and asteroid fields. Then the second player places the 2 purrgil in the setup area. Each purrgil must be placed beyond distance 1 of all obstacles and beyond 5 of both player's edges.",
+    "special-rule": [
+      "Special Rule: Each ship has the following critical effect:",
+      "[Critical Hit]: If this attack is at close-medium range, remove all objective tokens from enemy ships. Then assign an objective token to the defender.",
+      "After a player moves a purrgil, if that purrgil is at distance 1 of a ship with an objective token, that player may choose and discard 1 objective token. Then that ship suffers 1 facedown damage and the opposing fleet's owner gains 1 victory token."
+    ],
+    "end-of-round": "",
+    "end-of-game": "",
+    "points": 15
   },
   {
     "title": "Minefields",
@@ -135,6 +247,33 @@
     "image": "objective-card/precision-strike.png"
   },
   {
+    "title": "Rift Ambush",
+    "category": "Defense",
+    "setup": [
+      "Setup: The second player places all obstacles, adding the gravity rift and 2 dust fields and excluding the station. The gravity rift must be placed beyond distance 5 of both players' edges.",
+      "After deploying fleets, the second player may choose 1 enemy ship. That ship must execute a speed-1 maneuver with a yaw of \"-\". Then the second player may increase or decrease that ship's speed by 1, to a minimum of speed 0."
+    ],
+    "special-rule":
+      "Special Rule: Once per activation, after a ship executes a maneuver, if it is at distance 1-2 of the gravity rift, it must execute a speed-1 maneuver with a yaw of \"-\". If that ship belongs to the second player, it may use its speed-1 yaw value. The gravity rift does not have the ability to temporarily reduce that ship's speed during this maneuver.",
+    "end-of-round": "",
+    "end-of-game": "",
+    "points": 0
+  },
+  {
+    "title": "Rift Assault",
+    "category": "Assault",
+    "setup":
+      "Setup: Place obstacles as normal, adding the gravity rift and excluding the station.",
+    "special-rule": [
+      "Special Rule: While a ship is attacking a ship, if the defender is beyond distance 1 of any obstacles and the defender does not have an objective token, the attacker can spend 1 die with any icon to assign an objective token to the defender.",
+      "While a ship with an objective token is defending, during the Resolve Attack Effects step, the attacker can discard that objective token to change 1 die to a face with an [Accuracy] icon or 1 [Hit] icon and no other icons. If the attacker belongs to the second player, it can change 1 die to a face with any icon. Then the attacker's owner gains 1 victory token."
+    ],
+    "end-of-round":
+      "End of Round: Each ship at distance 1-2 of the gravity rift that is at speed 1 or lower suffers 1 facedown damage card.",
+    "end-of-game": "",
+    "points": 10
+  },
+  {
     "title": "Superior Positions",
     "category": "Navigation",
     "setup":
@@ -145,5 +284,34 @@
     "end-of-game": "",
     "points": 15,
     "image": "objective-card/superior-positions.png"
+  },
+  {
+    "title": "Surprise Attack",
+    "category": "Assault",
+    "setup": [
+      "Setup: The second player places the station at distance 1-5 of the first player's edge. Then place the remaining obstacles as normal.",
+      "While deploying fleets, the first player must deploy their flagship before deploying any other ships. Their flagship must overlap the station, even if the flagship extends beyond their deployment zone. The first player cannot deploy any ship at a speed greater than half of that ships maximum speed (rounded up).",
+      "After deploying fleets, the second player places 3 facedown command dials in a stack on this card."
+    ],
+    "special-rule":
+      "Special Rule: At the start of the Ship Phase during the first, second, and third rounds, the second player reveals the top command dial on this card, and each of the first player's ships gains a raid token matching that dial.",
+    "end-of-round": "",
+    "end-of-game": "",
+    "points": 0
+  },
+  {
+    "title": "Volatile Deposits",
+    "category": "Navigation",
+    "setup":
+      "Setup: Place obstacles as normal, adding 2 dust fields and excluding the station.",
+    "special-rule": [
+      "Special Rule: While a ship is attacking a ship, the attacker can choose 1 obstacle at distance 1 of the defender, then resolve the following critical effect:",
+      "Blue [Critical Hit]: Each ship or squadron at distance 1 of the chosen obstacle suffers damage equal to half of the total number of [Critical Hit] icons in your attack pool, rounded up.",
+      "If the defender is one of the first player's ships, the attacker can resolve this effect with any [Critical Hit] icon."
+    ],
+    "end-of-round":
+      "End of Round: For each asteroid field, each player sums the command values of their ships at distance 1. Then for each astroid field, the player with the highest total gains 1 victory token.",
+    "end-of-game": "",
+    "points": 15
   }
 ]
