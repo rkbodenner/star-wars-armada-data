@@ -191,9 +191,19 @@
       "When a purrgil moves, it must move toward the objective token at the opposite 3' edge. When a purrgil touches that objective token, that purrgil is removed from the play area."
     ],
     "end-of-round":
-      "End of Round: If a ship has 1 objective token on it, remove the token and that ship's owner gains 1 victory token. If a ship is at distance 1 from a purrgil and has no objective tokens on it, place 1 objective token on the ship.",
+      "For each ship, if it has an objective token on it, remove that token and that ship’s owner gains 1 victory token; if it has no objective token on it and is at distance 1 of a purrgil, place 1 objective token on that ship. Then players move each purrgil.",
     "end-of-game": "",
-    "points": 20
+    "points": 20,
+    "errata": [
+      {
+        "version": "original",
+        "end-of-round":
+          "End of Round: If a ship has 1 objective token on it, remove the token and that ship's owner gains 1 victory token. If a ship is at distance 1 from a purrgil and has no objective tokens on it, place 1 objective token on the ship."
+      },
+      {
+        "version": "5.1.1"
+      }
+    ]
   },
   {
     "title": "Infested Fields",
